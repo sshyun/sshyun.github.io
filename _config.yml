@@ -13,6 +13,7 @@ title: mi diario
 description: my work, my life, my memory
 cover: assets/images/blog_bg2.jpg
 logo: assets/images/blog-logo.png
+logo_s: assets/images/blog-logo_s.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 CNAME: #add cname for website to be created
