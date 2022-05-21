@@ -67,8 +67,8 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: Hyun SungSic
-repo: sshyun
+username: sshyun
+repo: sshyun.github.io
 branch: master
 relative_source: ../sshyun
 destination: ../sshyun-pages/
