@@ -14,7 +14,6 @@
 #   name: getting-started
 #   description: False
 #   cover: False
-
 lifelog:
   name: lifelog
   description: 일상의 기록들
