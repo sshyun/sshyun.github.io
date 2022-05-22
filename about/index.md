@@ -33,9 +33,6 @@ Email : manma97@naver.com
 
 ###### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
 
-<img class="thumbnail_image_50_r10" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGXr7HIe8sYSw/articleshare-shrink_160/0/1652174687059?e=1653793200&v=beta&t=ecf9jgQbUz6ZIUsoG2j_KwSvNCDC47iQF_SFG3Lehc0">
-
-
 > SmartEditor PM <br/>
 > SmartEditor ONE Development <br/>
 > SmartEditor ONE 개발 (TL) <br/>
