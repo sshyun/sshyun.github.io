@@ -84,6 +84,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - GHOST.txt
+  - post_old/*
   - gulpfile.js
   - LICENSE
   - package.json
