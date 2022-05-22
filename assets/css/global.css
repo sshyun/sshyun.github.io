@@ -16,9 +16,7 @@
     --brown: #a3821a;
 }
 @import url('https://cdn.rawgit.com/moonspam/NanumSquare/master/nanumsquare.css');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans');
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR');
-
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
 /* Reset
 /* ---------------------------------------------------------- */
 
