@@ -47,9 +47,9 @@ body {
     text-indent: -9999px;
 }
 
-.thumbnail_image_50_r10 {
+.thumbnail_image_150_r10 {
     object-fit: cover;
-    height: 56px;    
+    width: 150px;    
     border-radius: 10%;
 }
 
