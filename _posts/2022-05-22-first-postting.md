@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/220522/0522_cover.jpg
+cover: assets/images/20220522/0522_cover.jpg
 navigation: True
 title: 첫 포스팅
 date: 2022-05-22 10:00:00
