@@ -47,10 +47,10 @@ body {
     text-indent: -9999px;
 }
 
-.thumbnail_image {
+.thumbnail_image_50_r10 {
     object-fit: cover;
-    height: 56px;
-    width: 106px;
+    height: 56px;    
+    border-radius: 10%;
 }
 
 .thumbnail_circle {

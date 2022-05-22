@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-<img src="{{ site.baseurl }}assets/images/profile.jpg" class="thumbnail_circle" style="width:300"/>
+<img src="{{ site.baseurl }}assets/images/profile.jpg" class="thumbnail_circle" style="max-width:300; margin: 0 auto"/>
 
 Web 개발자로 시작한지 18년차 되는 노땅입니다.
 Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로 하고 싶네요.
@@ -31,7 +31,9 @@ Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로
 
 #### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
 
-<img class="thumbnail__image" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGXr7HIe8sYSw/articleshare-shrink_160/0/1652174687059?e=1653793200&v=beta&t=ecf9jgQbUz6ZIUsoG2j_KwSvNCDC47iQF_SFG3Lehc0">
+<div>
+<img class="thumbnail_image_50_r10" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGXr7HIe8sYSw/articleshare-shrink_160/0/1652174687059?e=1653793200&v=beta&t=ecf9jgQbUz6ZIUsoG2j_KwSvNCDC47iQF_SFG3Lehc0">
+</div>
 
 > SmartEditor PM <br/>
 > SmartEditor ONE Development <br/>
