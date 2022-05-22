@@ -17,6 +17,7 @@ Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로
 지금은 [NAVER](http://navercorp.com) 에서 HomeBuilder 팀을 맡고 있습니다.
 팀의 자세한 소개는 [여기](https://naver-career.gitbook.io/kr/service/etech#homebuilder) 에서 보실 수 있습니다.
 
+Email : manma97@naver.com
 
 ## 경력 소개
 
