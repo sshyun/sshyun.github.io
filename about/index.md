@@ -1,17 +1,76 @@
 ---
 layout: page
 current: about
-title: About
+title: About Me
 navigation: true
 logo: 'assets/images/blog-logo.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+<img src-"{{ site.baseurl }}assets/images/profile.jpg">
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+Web 개발자로 시작한지 18년차 되는 노땅입니다.
+Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로 하고 싶네요.
+지금는 [squarespace](https://www.squarespace.com/) 같은 No-Code 도구에 관심이 많습니다.
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+지금은 [NAVER](http://navercorp.com) 에서 HomeBuilder 팀을 맡고 있습니다.
+팀의 자세한 소개는 [여기](https://naver-career.gitbook.io/kr/service/etech#homebuilder) 에서 보실 수 있습니다.
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+*** 
+
+## 경력 소개
+
+### NAVER Corp
+#### SmartStudio / HomeBuilder (2020년 10월 ~ 현재)
+> Team Leader
+
+#### SmartStudio / Media Viewer (20년 10월 ~ 현재)
+> Team Leader
+
+
+#### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
+
+<img class="thumbnail__image" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGXr7HIe8sYSw/articleshare-shrink_160/0/1652174687059?e=1653793200&v=beta&t=ecf9jgQbUz6ZIUsoG2j_KwSvNCDC47iQF_SFG3Lehc0">
+
+> SmartEditor PM
+> SmartEditor ONE Development
+> SmartEditor ONE 개발 (TL)
+> SmartEditor 조직 구성
+> SmartEditor3.0 개발 (DL)
+> Smart Editor 3.0 Development
+> 블로그포스트개발랩 이동
+
+#### 백과 서비스 개발 (2013년 1월 - 2015년 3월 · 2년 3개월)
+> Senior Engineer
+> NAML 플랫폼 JS API 개발
+> NAML (내부컨덴츠 포맷) 에디터 개발
+> 네이버 캐스트 / 매거진 캐스트 서비스 유지보수
+> Naver 지식백과 서비스 이동
+
+#### 일본 개발센터 (Line) (2012년 1월 - 2013년 1월 · 1년 1개월)
+> Senior Engineer
+> LineTools APP개발 출시 (Titanium) - Android / iOS
+> Line Native TitleBar API 설계 / 구현 (Native Titlebar APILINE Developers - Native Titlebar API)
+> Line Webapp 개발 참여
+> Line웹앱개발(현 Line) 이동
+
+#### Ajax UI (2011년 2월 - 2011년 12월 · 11개월)
+> Senior Engineer 
+> JindoMobileComponent 개발참여
+> Naver Mobile 검색 자동완성 유지보수
+> Naver Cell 프로젝트
+
+### Daou tech (2005년 5월 - 2011년 1월 · 5년 9개월)
+> Web Dev Engineer
+> Mail Applcation Development
+> JAVA / J2EE
+> Javascript / HTML
+> Mobile Web
+
+
+### SK Communications
+#### 엠파스 / 게임 개발본부 (2004년 3월 ~ 2005년 3월 · 1년 1개월
+> UI Publisher
+> HTML / Javascript
+
