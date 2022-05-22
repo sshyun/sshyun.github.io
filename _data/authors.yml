@@ -74,3 +74,16 @@ martin:
   facebook: False
   twitter: False
   cover: False
+
+
+sshyun:
+  username: sshyun
+  name: 현성식
+  location: Korean
+  url_full: False
+  url: False
+  bio: Front-end enginner.
+  picture: assets/images/profile.jpg
+  facebook: False
+  twitter: False
+  cover: False
