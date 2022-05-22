@@ -17,23 +17,23 @@ Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로
 지금은 [NAVER](http://navercorp.com) 에서 HomeBuilder 팀을 맡고 있습니다.
 팀의 자세한 소개는 [여기](https://naver-career.gitbook.io/kr/service/etech#homebuilder) 에서 보실 수 있습니다.
 
-*** 
 
 ## 경력 소개
 
+*** 
+
 ### NAVER Corp
-#### SmartStudio / HomeBuilder (2020년 10월 ~ 현재)
+###### SmartStudio / HomeBuilder (2020년 10월 ~ 현재)
 > Team Leader
 
-#### SmartStudio / Media Viewer (20년 10월 ~ 현재)
+###### SmartStudio / Media Viewer (20년 10월 ~ 현재)
 > Team Leader
 
 
-#### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
+###### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
 
-<div>
 <img class="thumbnail_image_50_r10" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGXr7HIe8sYSw/articleshare-shrink_160/0/1652174687059?e=1653793200&v=beta&t=ecf9jgQbUz6ZIUsoG2j_KwSvNCDC47iQF_SFG3Lehc0">
-</div>
+
 
 > SmartEditor PM <br/>
 > SmartEditor ONE Development <br/>
