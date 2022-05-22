@@ -89,6 +89,7 @@ exclude:
   - package.json
   - package-lock.json
   - Rakefile
+  - post_old
   - README.md
   - script.py
   - changelog.md
