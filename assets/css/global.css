@@ -133,7 +133,7 @@ img {
 }
 html {
     box-sizing: border-box;
-    font-family: 'Noto Sans','Noto Sans KR',sans-serif;
+    font-family: sans-serif,'Noto Sans KR',;
 
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;

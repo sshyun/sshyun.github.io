@@ -8,7 +8,7 @@ class: page-template
 subclass: 'post page'
 ---
 
-<img src="{{ site.baseurl }}assets/images/profile.jpg" class="thumbnail_circle" style="max-width:300; margin: 0 auto"/>
+<img src="{{ site.baseurl }}assets/images/profile.jpg" class="thumbnail_circle" style="max-width:300px; margin: 0 auto"/>
 
 Web 개발자로 시작한지 18년차 되는 노땅입니다.
 Front-End 개발을 좋아하며, 개발이 재미있고, 늙어서도 취미로 하고 싶네요.
