@@ -637,7 +637,7 @@ The first (most recent) post in the list is styled to be bigger than the others 
     padding: 70px 100px 0;
     min-height: 230px;
     font-family: 'Noto Sans KR', sans-serif;
-    font-size: 2.2rem;
+    font-size: 1.8rem;
     line-height: 1.6em;
     background: #fff;
 }
@@ -884,7 +884,7 @@ Usage (In Ghost editor):
 
 .post-full-content h1 {
     margin: 0.5em 0 0.2em 0;
-    font-size: 4.6rem;
+    font-size: 3.1rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
@@ -894,8 +894,8 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h2 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 3.6rem;
+    margin: 0.5em 0 0.5em 0;
+    font-size: 2.8rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
@@ -905,19 +905,19 @@ Usage (In Ghost editor):
 }
 
 .post-full-content h3 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    margin: 0.5em 0 0.5em 0;
+    font-size: 2.6rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
     .post-full-content h3 {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
     }
 }
 
 .post-full-content h4 {
-    margin: 0.5em 0 0.2em 0;
-    font-size: 2.8rem;
+    margin: 0.5em 0 0.5em 0;
+    font-size: 2.2rem;
     font-weight: 700;
 }
 @media (max-width: 500px) {
