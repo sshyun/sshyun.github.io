@@ -28,8 +28,8 @@ subscribers: False # you need to connect an external service for this to work,
 facebook: sungsic.hyun # replace by your username
 
 # Disqus
-disqus: False
-disqus_shortname: jekyllt # replace with your disqus username
+disqus: true
+disqus_shortname: manma97 # replace with your disqus username
 
 # Google Analytics
 google_analytics: UA-69281367-1 # replace with your GA tracking identifier
