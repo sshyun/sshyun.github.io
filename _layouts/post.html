@@ -92,7 +92,7 @@ into the {body} of the default.hbs template -->
             should be replaced with your own Disqus site-id. -->
             {% if site.disqus or page.disqus %}
                 <section class="post-full-comments">
-                    <div id="disqus_thread"></div>
+                    <!-- <div id="disqus_thread"></div>
                     <script>
                         var disqus_config = function () {
                             var this_page_url = '{{ site.url }}{{ page.url }}';
@@ -105,6 +105,15 @@ into the {body} of the default.hbs template -->
                             s.setAttribute('data-timestamp', +new Date());
                             (d.head || d.body).appendChild(s);
                         })();
+                    </script> -->
+
+                    <script src="https://utteranc.es/client.js"
+                            repo="sshyun/sshyun.github.io"
+                            issue-term="title"
+                            label="comment"
+                            theme="github-light"
+                            crossorigin="anonymous"
+                            async>
                     </script>
                 </section>
             {% endif %}
