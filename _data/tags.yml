@@ -10,4 +10,12 @@ work:
   name: work
   description: 일 이야기
   cover: assets/images/category/work-cover.jpg
+comment:
+  name: comment
+  description: 기억에 남는 이야기
+  cover: assets/images/category/comment-cover.jpg
+no-code:
+  name: no-code
+  description: no-code 도구
+  cover: assets/images/category/nocode-cover.jpg
 
