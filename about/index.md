@@ -27,8 +27,8 @@ Email : manma97@naver.com
 ###### SmartStudio / HomeBuilder (2020년 10월 ~ 현재)
 > Team Leader
 
-###### SmartStudio / Media Viewer (20년 10월 ~ 현재)
-> Team Leader
+###### SmartStudio / Media Viewer (2019년 10월 ~ 2020년 10월)
+> Developer
 
 
 ###### SmartStudio / SmartEditor (2015년 3월 - 2019년 10월 · 4년 8개월)
