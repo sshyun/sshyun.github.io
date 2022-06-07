@@ -29,7 +29,7 @@ Article의 미션은,
 
 > 현존하는 최고의 UGC 도구와 서비스의 개발
 
-이였다. =ㅁ=;;
+이었다. =ㅁ=;;
 좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?
 
 # 글쓰기 최강의 도구 SmartEditorONE
@@ -40,7 +40,7 @@ SmartEditor를 아는 사람들은 많을것이다. (아마도 블로그 에디�
 하지만 의외로 스마트 에디터는 여러곳에서 사용된다.
 
 - [네이버 스마트스토어의 상품글](https://shopping.naver.com/living/homeliving/stores/100641053/products/6767872476?NaPm=ct%3Dl43x3mj3%7Cci%3Dshoppingwindow%7Ctr%3Dswl%7Chk%3D1445408e54b3fdde61c60b96a855eae5a33cb8db%7Ctrx%3D)
-- [네이버 프리미엄 콘덴츠의 편집기](https://contents.premium.naver.com/artandlife/knowledge/contents/220605213301550ra)
+- [네이버 프리미엄 콘텐츠의 편집기](https://contents.premium.naver.com/artandlife/knowledge/contents/220605213301550ra)
 - [네이버 까페 글쓰기](https://cafe.naver.com/hkct/984714?art=aW50ZXJuYWwtY2FmZS1zZWN0aW9uLWVkaXRvcnMtcGljaw.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4NDcxNCwiaXNzdWVkQXQiOjE2NTQ1OTE3Nzg2MjEsImNhZmVJZCI6MTAxODYxMTl9.PAuYQWM_hu03YJC9yFzZHhRefyeDN9c6lp_r_jjSCs8)
 
 SmartEditor는 다음 미션에 집중했다.
@@ -79,12 +79,12 @@ HTML로도 가능 하긴 하지만, 데이터로 만들어져있어 기능구현
 
 데이터 기반의 문서는 다양한 디바이스간의 편집을 가능 하게 해준다. SE는 PC WEB / Mobile WEB / iOS APP / Android APP을 모두 지원한다.
 PC 에서 작성한 글을 모바일에서 수정하고, 다시 태블릿에서 불러 올 수 있다. 작가는 어디서나 원하는 기기로 글을 작성 할 수 있고, 편집도 가능 하다.
-다양한 디바이스의 완벽게 지원하는 글쓰기 도구는 글로벌에서도 찾기 어렵다. (심지어 나는 찾지 못했다.)
+다양한 디바이스의 완벽하게 지원하는 글쓰기 도구는 글로벌에서도 찾기 어렵다. (심지어 나는 찾지 못했다.)
 
 # 작가의 글을 더욱 빛나게 하는 Article HomeBuilder
 
 SE가 글을 돋보이게 한다면, Article의 홈빌더는 글쓴이의 글을 미려한 Home으로 보여준다.
-자신이 쓴 최신글이나 소식등을 알리는 나만의 개벗있는 홈으로 외부에 나를 알리는 용도로 사용된다.
+자신이 쓴 최신글이나 소식등을 알리는 나만의 개성있는 홈으로 외부에 나를 알리는 용도로 사용된다.
 우리는 이런 홈을 원클릭으로 쉽게 편집하고, 다양한 스타일링을 지원하는 도구를 구현 했다.
  
 <figure>
@@ -126,11 +126,12 @@ View의 경우에는 완벽한 반응형을 지원 한다.
 </figure>
 
 
-# 그래서 Article은 최강의 UGC 도구일끼?
+# 그래서 Article은 최강의 UGC 도구일까?
+
 
 > 솔직히 모르겠다.
 
 최강의 도구라는 것은 정의에 따라 다르다. 어떤 사람은 이런 기능없이 심플한 글쓰기가 좋은 사람도 있을 것이고, 글 내용에 집중 할 수있는 에디터를 선호 할 수도 있다.
-Article은 글과 디자인의 두마리 토까를 잡아보려는 시도이다. 그 중심에 SmmartEditor와 HomeBuilder가 최고의 도구를 제공 하고있다.
-글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구라고 자부한다.
-앞으로도 SmmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공하길 기원한다.
+Article은 글과 디자인의 두마리 토끼를 잡아보려는 시도이다. 그 중심에 SmartEditor와 HomeBuilder가 최고의 도구를 제공 하고있다.
+글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구라고 자부한다.
+앞으로도 SmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공하길 기원한다.
