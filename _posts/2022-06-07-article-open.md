@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover: assets/images/20220607/0607_cover.jpg
+cover: assets/images/20220607/0607_cover.png
 navigation: True
 title: Article 서비스 오픈!
 date: 2022-06-07 17:00:00
