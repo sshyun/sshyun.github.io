@@ -14,7 +14,7 @@ author: sshyun
 # 드디어 Article 오픈
 
 <figure>
-  <img data-action="zoom" src='{{ assets/images/20220607/article_intro.png }}' alt='absolute'>
+  <img data-action="zoom" src='assets/images/20220607/article_intro.png' alt='absolute'>
   <figcaption><a href="https://article.me" target="blank">Article Beta Service</a></figcaption>
 </figure>
 
@@ -70,7 +70,7 @@ HTML로도 가능 하긴 하지만, 데이터로 만들어져있어 기능구현
 컴포넌트 기반 글쓰기로 다양한 추가 컴포넌트로 인터렉티브한 기능의 구현이 가능 하다.
 
 <figure>
-  <img data-action="zoom" src='{{ ../assets/images/20220607/article_se.png }}' alt='absolute'>
+  <img data-action="zoom" src='../assets/images/20220607/article_se.png' alt='absolute'>
   <figcaption>대화 / 만화뷰어 컴포넌트</figcaption>
 </figure>
 
@@ -88,7 +88,7 @@ SE가 글을 돋보이게 한다면, Article의 홈빌더는 글쓴이의 글을
 우리는 이런 홈을 원클릭으로 쉽게 편집하고, 다양한 스타일링을 지원하는 도구를 구현 했다.
  
 <figure>
-  <img data-action="zoom" src='{{ ../assets/images/20220607/article_homebuilder.gif }}' alt='absolute'>
+  <img data-action="zoom" src='assets/images/20220607/article_homebuilder.gif' alt='absolute'>
   <figcaption>Article HomeBuilder</figcaption>
 </figure>
 
@@ -100,7 +100,7 @@ HomeBuilder는 다음의 기능에 포커스를 맞췄다.
 최신글 목록을 클릭만으로 추가하고, 원하는 모양의 Layout으로 변경이 가능하다.
 
 <figure>
-  <img data-action="zoom" src='{{ ../assets/images/20220607/article_home_view.png }}' alt='absolute'>
+  <img data-action="zoom" src='assets/images/20220607/article_home_view.png' alt='absolute'>
   <figcaption>컴포넌트의 view 타입적용</figcaption>
 </figure>
 
@@ -110,7 +110,7 @@ HomeBuilder의 사이트 정보도 SE와 동일하게 데이터로 되어있다.
 거기에 컬러 베리에이션까지 지원한다.
 
 <figure>
-  <img data-action="zoom" src='{{ ../assets/images/20220607/article_home_theme.png }}' alt='absolute'>
+  <img data-action="zoom" src='assets/images/20220607/article_home_theme.png' alt='absolute'>
   <figcaption>홈의 다양한 스타일링</figcaption>
 </figure>
 
@@ -121,14 +121,16 @@ HomeBuilder도 다양한 기기의 화면을 지원한다. 편집기는 아직 P
 View의 경우에는 완벽한 반응형을 지원 한다.
 
 <figure>
-  <img data-action="zoom" src='{{ ../assets/images/20220607/article_home_res.png }}' alt='absolute'>
+  <img data-action="zoom" src='assets/images/20220607/article_home_res.png' alt='absolute'>
   <figcaption>반응형 대응</figcaption>
 </figure>
 
 
 # 그래서 Article은 최강의 UGC 도구일끼?
 
-최강의 도구라는 것은 정의에따라 다르다. 어떤 사람은 이런 기능없이 심플한 글ㄱ쓰기가 좋은 사람도 있을 것이고, 글내용에 집중 할 수있는 에디터를 선호 할 수도 있다.
+> 솔직히 모르겠다.
+
+최강의 도구라는 것은 정의에 따라 다르다. 어떤 사람은 이런 기능없이 심플한 글쓰기가 좋은 사람도 있을 것이고, 글 내용에 집중 할 수있는 에디터를 선호 할 수도 있다.
 Article은 글과 디자인의 두마리 토까를 잡아보려는 시도이다. 그 중심에 SmmartEditor와 HomeBuilder가 최고의 도구를 제공 하고있다.
-글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구 라고 자부한다.
-앞으로도 SmmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공 하길 기원한다.
+글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구라고 자부한다.
+앞으로도 SmmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공하길 기원한다.
