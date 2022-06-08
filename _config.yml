@@ -8,6 +8,7 @@ future: true
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: 'https://sshyun.github.io/'
+rooturl: 'https://sshyun.github.io'
 
 # Website info
 title: mi diario
