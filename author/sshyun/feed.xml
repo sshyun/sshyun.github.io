@@ -1,0 +1,982 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/https://sshyun.github.io/author/sshyun/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/https://sshyun.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-07-22T03:17:48+00:00</updated>
+  <id>/https://sshyun.github.io/author/sshyun/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">mi diario | </title>
+  
+
+  
+    <subtitle>my work, my life, my memory</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Article 서비스 오픈!</title>
+      <link href="/https://sshyun.github.io/article-open" rel="alternate" type="text/html" title="Article 서비스 오픈!" />
+      <published>2022-06-07T17:00:00+00:00</published>
+      <updated>2022-06-07T17:00:00+00:00</updated>
+      <id>/https://sshyun.github.io/article-open</id>
+      <content type="html" xml:base="/https://sshyun.github.io/article-open">&lt;h1 id=&quot;드디어-article-오픈&quot;&gt;드디어 Article 오픈&lt;/h1&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;assets/images/20220607/article_intro.png&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;&lt;a href=&quot;https://article.me&quot; target=&quot;blank&quot;&gt;Article Beta Service&lt;/a&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://article.me&quot;&gt;https://article.me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;3년만에 오픈한 Article 서비스. 아직은 Closed Beta 서비스 이지만 3년만에 빛을 본 서비스이다.
+( 참 우여 곡절이 많은 서비스이지만, 자세한 이야기는 대외비라..)&lt;/p&gt;
+
+&lt;p&gt;Article의 미션은,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;현존하는 최고의 UGC 도구와 서비스의 개발&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;이었다. =ㅁ=;;
+좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?&lt;/p&gt;
+
+&lt;h1 id=&quot;글쓰기-최강의-도구-smarteditorone&quot;&gt;글쓰기 최강의 도구 SmartEditorONE&lt;/h1&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://smarteditor.naver.com/desktop/&quot;&gt;SmartEditorONE 브랜드 사이트&lt;/a&gt; (홈빌더도 만들어야지..)&lt;/p&gt;
+
+&lt;p&gt;SmartEditor를 아는 사람들은 많을것이다. (아마도 블로그 에디터로..)
+하지만 의외로 스마트 에디터는 여러곳에서 사용된다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shopping.naver.com/living/homeliving/stores/100641053/products/6767872476?NaPm=ct%3Dl43x3mj3%7Cci%3Dshoppingwindow%7Ctr%3Dswl%7Chk%3D1445408e54b3fdde61c60b96a855eae5a33cb8db%7Ctrx%3D&quot;&gt;네이버 스마트스토어의 상품글&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://contents.premium.naver.com/artandlife/knowledge/contents/220605213301550ra&quot;&gt;네이버 프리미엄 콘텐츠의 편집기&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cafe.naver.com/hkct/984714?art=aW50ZXJuYWwtY2FmZS1zZWN0aW9uLWVkaXRvcnMtcGljaw.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4NDcxNCwiaXNzdWVkQXQiOjE2NTQ1OTE3Nzg2MjEsImNhZmVJZCI6MTAxODYxMTl9.PAuYQWM_hu03YJC9yFzZHhRefyeDN9c6lp_r_jjSCs8&quot;&gt;네이버 까페 글쓰기&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;SmartEditor는 다음 미션에 집중했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;미려한-글쓰기&quot;&gt;미려한 글쓰기&lt;/h2&gt;
+
+&lt;p&gt;SmartEditor는 세련된 글을 빠르게 작성 가능한 에디터이다. 거기에 Mobile / PC / Tablet 까지 지원되는 글로벌에서도 찾아 보기 힘든 에디터라고 생각한다.
+Article의 핵심 경쟁력은 글에서 나오는것이고 SE가 그 중심에 있다.&lt;/p&gt;
+
+&lt;h3 id=&quot;stylizer---se만의-테마-시스템기술&quot;&gt;Stylizer - SE만의 테마 시스템기술&lt;/h3&gt;
+
+&lt;video class=&quot;AboutArticle__video__tY8_k&quot; autoplay=&quot;&quot; muted=&quot;&quot; loop=&quot;&quot; playsinline=&quot;&quot;&gt;&lt;source src=&quot;https://fe-article.pstatic.net/video/about_concept.61dd2a9081fb62af6a1b.mp4&quot; type=&quot;video/mp4&quot; /&gt;&lt;/video&gt;
+
+&lt;p&gt;원클릭으로 같은 글을 전혀 다른 UI로 표현 할 수 있다면?
+SE의 문서는 HTML 이아닌 데이터로 되어있어 UI와 내용의 분리가 가능하다.
+그래서 같은 글의 데이터를 전혀 다른 UI 셋으로 변경 가능하다. 이를 위해서는 고도의 마크업 기술과 FE기술이 접목 되어야 한다.
+SE가 가지고 있는 강력한 기능 중의 하나.&lt;/p&gt;
+
+&lt;p&gt;Article 의 최초 시연때 이기능을 보고 외국관계자 들이 극찬을 했다는 일화는 아직도 기억이 난다.&lt;/p&gt;
+
+&lt;h2 id=&quot;다양한-글기능-지원&quot;&gt;다양한 글기능 지원&lt;/h2&gt;
+
+&lt;p&gt;문서가 데이터로 되어있어 문서를 기반한 다양한 기능 구현이 가능하다. 아티클의 언더라인을 대표적인 예시로 들 수 있다.
+(예시 : &lt;a href=&quot;https://article.me/post/6298f3c3bcff9f53a901c75c?underlineSentenceId=629d9f6def23c17329b96845&quot;&gt;언더라인 예시&lt;/a&gt;)
+문단마다 데이터 영역이 나누어져 있어 블록선택으로 댓글등을 달고 리액션이 가능하다.
+HTML로도 가능 하긴 하지만, 데이터로 만들어져있어 기능구현이 쉽게 가능했다.
+컴포넌트 기반 글쓰기로 다양한 추가 컴포넌트로 인터렉티브한 기능의 구현이 가능 하다.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;../assets/images/20220607/article_se.png&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;대화 / 만화뷰어 컴포넌트&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;어디서나-글을-작성---멀티디바이스&quot;&gt;어디서나 글을 작성 - 멀티디바이스&lt;/h2&gt;
+
+&lt;p&gt;데이터 기반의 문서는 다양한 디바이스간의 편집을 가능 하게 해준다. SE는 PC WEB / Mobile WEB / iOS APP / Android APP을 모두 지원한다.
+PC 에서 작성한 글을 모바일에서 수정하고, 다시 태블릿에서 불러 올 수 있다. 작가는 어디서나 원하는 기기로 글을 작성 할 수 있고, 편집도 가능 하다.
+다양한 디바이스의 완벽하게 지원하는 글쓰기 도구는 글로벌에서도 찾기 어렵다. (심지어 나는 찾지 못했다.)&lt;/p&gt;
+
+&lt;h1 id=&quot;작가의-글을-더욱-빛나게-하는-article-homebuilder&quot;&gt;작가의 글을 더욱 빛나게 하는 Article HomeBuilder&lt;/h1&gt;
+
+&lt;p&gt;SE가 글을 돋보이게 한다면, Article의 홈빌더는 글쓴이의 글을 미려한 Home으로 보여준다.
+자신이 쓴 최신글이나 소식등을 알리는 나만의 개성있는 홈으로 외부에 나를 알리는 용도로 사용된다.
+우리는 이런 홈을 원클릭으로 쉽게 편집하고, 다양한 스타일링을 지원하는 도구를 구현 했다.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;assets/images/20220607/article_homebuilder.gif&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;Article HomeBuilder&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;HomeBuilder는 다음의 기능에 포커스를 맞췄다.&lt;/p&gt;
+
+&lt;h2 id=&quot;초보자도-쉽게----단순한-편집&quot;&gt;초보자도 쉽게 -  단순한 편집&lt;/h2&gt;
+
+&lt;p&gt;글관련 컴포넌트를 클릭으로 삽입하고 모양을 쉽게 바꾸도록 지원한다.
+최신글 목록을 클릭만으로 추가하고, 원하는 모양의 Layout으로 변경이 가능하다.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;assets/images/20220607/article_home_view.png&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;컴포넌트의 view 타입적용&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;원클릭으로-한번에-스타일링--다양한-테마&quot;&gt;원클릭으로 한번에 스타일링- 다양한 테마&lt;/h2&gt;
+
+&lt;p&gt;HomeBuilder의 사이트 정보도 SE와 동일하게 데이터로 되어있다. SE의 DNA를 가진 테마를 홈빌더에도 그대로 적용하여 원클릭으로 다양한 스타일링이 가능하다.
+거기에 컬러 베리에이션까지 지원한다.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;assets/images/20220607/article_home_theme.png&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;홈의 다양한 스타일링&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h2 id=&quot;다양한-기기지원---반응형-사이트&quot;&gt;다양한 기기지원 - 반응형 사이트&lt;/h2&gt;
+
+&lt;p&gt;HomeBuilder도 다양한 기기의 화면을 지원한다. 편집기는 아직 PC만 지원 하지만 조만간 Mobile도 지원 할 예정이다.
+View의 경우에는 완벽한 반응형을 지원 한다.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img data-action=&quot;zoom&quot; src=&quot;assets/images/20220607/article_home_res.png&quot; alt=&quot;absolute&quot; /&gt;
+  &lt;figcaption&gt;반응형 대응&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h1 id=&quot;그래서-article은-최강의-ugc-도구일까&quot;&gt;그래서 Article은 최강의 UGC 도구일까?&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;솔직히 모르겠다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;최강의 도구라는 것은 정의에 따라 다르다. 어떤 사람은 이런 기능없이 심플한 글쓰기가 좋은 사람도 있을 것이고, 글 내용에 집중 할 수있는 에디터를 선호 할 수도 있다.
+Article은 글과 디자인의 두마리 토끼를 잡아보려는 시도이다. 그 중심에 SmartEditor와 HomeBuilder가 최고의 도구를 제공 하고있다.
+글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구라고 자부한다.
+앞으로도 SmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공하길 기원한다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="work" />
+      
+
+      
+        <summary type="html">드디어 Article 오픈</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">5월 리더 미팅 내용</title>
+      <link href="/https://sshyun.github.io/analects" rel="alternate" type="text/html" title="5월 리더 미팅 내용" />
+      <published>2022-05-27T12:00:00+00:00</published>
+      <updated>2022-05-27T12:00:00+00:00</updated>
+      <id>/https://sshyun.github.io/analects</id>
+      <content type="html" xml:base="/https://sshyun.github.io/analects">&lt;h2 id=&quot;플랫폼에-대한-자부심-그리고-꿈을-가져라&quot;&gt;플랫폼에 대한 자부심 그리고 꿈을 가져라.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;SE 국내에서 5위안에 드는 APP 이다.&lt;/li&gt;
+  &lt;li&gt;우리가 가진 리더의 무게는 얼마나 될까?
+    &lt;ul&gt;
+      &lt;li&gt;연매출 1000억의 중소 기업 CEO와 팀리더 중 누가 더 무게감이 있을까?&lt;/li&gt;
+      &lt;li&gt;팀을 벤쳐라고 생각 해라. 우리가 만드는 플랫폼은 수 많은 사용자 들이쓰는 핵심모듈이다.&lt;/li&gt;
+      &lt;li&gt;네이버에서 검색에 쓰이는 대부분의 콘텐츠를 만드는 도구는 우리이다. 서비스는 도구가 없으면 경쟁력이 있을 수 없다.&lt;/li&gt;
+      &lt;li&gt;이것을 매출로 환산하면 1000억  중소기업보다 몇배의 가치를 지닌다고 생각 해야 한다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;당당하지고 서비스에 휘둘리지 말아라. 요구 할것은 요구 하고 들어 줄 것은 들어줘라&lt;/li&gt;
+  &lt;li&gt;너희들의 등을 보고 팀원들이 따라 와야한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;리더도-성장해야-한다&quot;&gt;리더도 성장해야 한다.&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;항상 공부 해야 한다.
+    &lt;ul&gt;
+      &lt;li&gt;오전시간을 비우고 학습했던 적이 있다.&lt;/li&gt;
+      &lt;li&gt;리더도 학습을 해야 성장을 하고, 폭이 넓어 진다.&lt;/li&gt;
+      &lt;li&gt;업무는 평소에 공부 하고 연마 하는 것들을 사용하는 시간이다.
+        &lt;ul&gt;
+          &lt;li&gt;업무를 통해 배운다는 것은 극히 어려운 일이다.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;리더가 성장해야 구성원 들도 성장한다.
+        &lt;ul&gt;
+          &lt;li&gt;리더가 레벨 7일 되면 구성원 들은 레벨 5정도로 다라 오게 되어있다.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;시간을-비워라&quot;&gt;시간을 비워라&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;일주일에 하루는 온전히 비우고 밖에 나가라.
+    &lt;ul&gt;
+      &lt;li&gt;10대들이 노는 곳에도 가고, 책도 보고, 머리를 비워라&lt;/li&gt;
+      &lt;li&gt;머리가 말랑 해져야 아이디어가 생긴다&lt;/li&gt;
+      &lt;li&gt;특히 어려 사람을 만나라. 나와 관계된 업체의 사람이나 기업들을 찾아가 봐라.&lt;/li&gt;
+      &lt;li&gt;우리가 만드는 서비스를 사용하는 사용자가 어떤 환경에서 일하는지 생활하는 지 한번 체험 해라.&lt;/li&gt;
+      &lt;li&gt;유튜브 동영상 보다 훨씬 가치 있는 시간이다.&lt;/li&gt;
+      &lt;li&gt;여유가 있고 생각이 되어야 전략이 나온다.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="comment" />
+      
+
+      
+        <summary type="html">플랫폼에 대한 자부심 그리고 꿈을 가져라.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Team Building 하기</title>
+      <link href="/https://sshyun.github.io/teamwork" rel="alternate" type="text/html" title="Team Building 하기" />
+      <published>2022-05-26T20:40:00+00:00</published>
+      <updated>2022-05-26T20:40:00+00:00</updated>
+      <id>/https://sshyun.github.io/teamwork</id>
+      <content type="html" xml:base="/https://sshyun.github.io/teamwork">&lt;h1 id=&quot;우리-팀의-빌딩-스토리와-팀워크&quot;&gt;우리 팀의 빌딩 스토리와 팀워크&lt;/h1&gt;
+
+&lt;p&gt;이번 포스팅은 우리 팀의 팀에 대한 이야기를 써보려고 한다.
+팀이 만들어지기까지, 그리고 내가 리더가 되기까지 험난한(?) 여정이 있었지만, 지금은 누구에게라도 자신 있게 보여 줄 수 있는 팀이 돼서 너무 감사하다.
+좋은 사람들을 모으고, 이 사람들이 일을 잘 하기 위한 문화를 만들고, 같이 성장하기 위해 노력한 이야기를 정리해 보려고 한다.
+그리고 내가, 아니 우리가 앞으로 만들 성장하는 팀에 대한 생각도 글로 남겨 보려고 한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;어떻게-만들어졌나&quot;&gt;어떻게 만들어졌나?&lt;/h2&gt;
+
+&lt;p&gt;우리 팀은 처음 인원 3명이서 시작한 팀이었다. 원래 소속된 팀에서 특공대(?)로 뽑혀서 3명이 PoC(Proof of concept) 데모 개발을 시작했다.
+처음에는 프로젝트 그룹으로 시작했다. 조직 리더님이 새로운 제품의 아디디어를 나에게 보여주셨고, ‘한번 해 보지 않을래?’라는 꼬심(?)에 홀딱 넘어갔다.
+누구나 그렇듯 나도 새로운 것을 좋아하고, 특공대 역할을 자처하는 스타일이라, 리더님의 꼬심에 넘어갈 수밖에 없었다.&lt;/p&gt;
+
+&lt;p&gt;먼저 우리가 만들 제품의 콘셉트와 기술을 설계했다. 시스템 구조와 데이터 스트럭처를 설계하고, 기술 스펙을 정리했다.
+이때도 코딩보다 이야기를 많이 한 것 같다. 먼저 각자의 생각을 모두 맞춘 다음 모여서 설계하고, 코딩하는 순으로 개발했다.
+원래 팀에서도 대화하는 조직 문화가 있었고, 나도 이런 문화를 정말 좋아했다. 그래서인지 3명이 종일 이야기할 수 있었다.
+대화는 서로를 이해하는 가장 좋은 수단이다. 글은 개념적인 지식을 공유하는 수단이라고 하면, 대화는 그 사람의 생각, 감정, 지식을 모두 공유하는 공유의 시작점이다.
+상대방과 얼굴을 보면서 대화함여서, 나의 생각과 감정을, 상대방에게 전달하고 공감을 이끌어 내고, 이걸 기술로 만드는 과정이라고 생각한다.&lt;/p&gt;
+
+&lt;p&gt;아… 이야기가 삼천포로:(&lt;/p&gt;
+
+&lt;p&gt;아무튼 3명이서 PoC를 열심히 만들어서 초기 프로토타입을 생각보다 일찍 만들었다. 이것도 먼저 토론하면서 설계를 했기 때문이 아닐까 싶다.
+우리는 다음 스텝으로 넘어가려고 준비 중이었는데, 어쩌나.. 갑자기 프로토타입으로 실 서비스에 적용해야 하는 상황이 되었다.
+이 프로젝트의 개발 스폰서십을 위해 현재 기술을 서비스에 적용해서 실증해야 했다.
+실 서비스 구현은 PoC 와는 다른 차원의 문제이다. 3명 가지고는 어려운 일이었고, 기존 팀에서 1명을 더 차출하고, 마크업을 지원받았다.
+이제 구성원이 5명이 되었지만, 그때도 팀이라기보다 TF 개발팀처럼 빨리 서비스를 만들어야 했다, 일을 중심으로 하다 보니 대화의 기회가 줄어 들었고, 개발에 더 집중하게 되었다.&lt;/p&gt;
+
+&lt;p&gt;그렇게, 서비스를 우여곡절 끝에 오픈을 했으나… 개발 그룹 중 1명이 다른 팀으로 전배를 가게 되었다. 그때는 좀 섭섭하긴 했지만, 지금은 웃으면서 만나는 사이이다.
+다시 3명이 되었고, 정비하기도 전에 다시 또 다른 프로젝트가 시작되어 버렸다…
+3명의 인력으로 프로젝트를 진행하다 보니, 나는 외부 커뮤니케이션과 일정 조율, 개발까지 담당해서 정신이 없었고, 다른 분들도 각자 업무에 정신이 없었다.
+그때는 팀도 아니었고 여유도 없어 일하는 문화를 만드는 것은 더 어려운 일이었다.&lt;/p&gt;
+
+&lt;p&gt;한 명의 팀원이 합류했고, 구세주 팀원이 긴 설득 끝에 입사를 했다.
+전에 같은 팀에 있었던 동료인데, (김 코딩하라고 하면 알만한 인 씨..) 스타트업을 거치면서 팀 빌딩 마스터가 되어 돌아왔다. 우리는 이제 팀으로 움직이기 시작했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;팀-빌딩의-어려움&quot;&gt;팀 빌딩의 어려움&lt;/h2&gt;
+
+&lt;p&gt;5명이 되면서 소규모 팀이 되었고, 본격적인 팀 빌딩에 들어갔다.
+우선 몇 가지 해야 할 것들을 정했다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;팀 위키 스페이스를 만들고, 위키를 정리하여 지식 베이스를 만들기&lt;/li&gt;
+  &lt;li&gt;스크럼을 통한 업무와 생각 공유&lt;/li&gt;
+  &lt;li&gt;팀 빌드업 미팅으로 팀에 필요한 문화 및 제도의 활성화&lt;/li&gt;
+  &lt;li&gt;팀 채용에 대한 기준 정리와 인재상 정리&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;팀을 만드는 것은 사람의 생각을 맞추는 일이 핵심이다.
+나의 생각과 동료의 생각을 맞추고, 내가 고민한 내용을 동료와 함게 고민할 수 있는 문화를 만드는 것이 중요하다.
+그래서 각자의 생각을 맞추고 팀의 목표나 문화를 맞추는 일이 쉽게 되지는 않는다.
+이야기가 많이 필요하고 공감과 동의가 필요한 작업이다.&lt;/p&gt;
+
+&lt;p&gt;우리는 하나하나씩 미션을 해 가면서 지금의 팀을 만들어 가고 있다.&lt;/p&gt;
+
+&lt;h2 id=&quot;원칙과-규칙-만들기&quot;&gt;원칙과 규칙 만들기&lt;/h2&gt;
+
+&lt;p&gt;자유로운 팀을 만들기 위해서는 자유의 범위를 정하는 원칙과 규칙이 필요하다.
+팀의 규칙은 팀을 운영하기 위한 최소한의 가이드라인으로 정한다.
+규칙이 너무 많다면 기억하기가 어렵다. 곧 지키는 것도 어렵다는 의미다.&lt;/p&gt;
+
+&lt;p&gt;몇 가지 꼭 지켜야 하는 핵심 문장들로 가이드라인을 정하자&lt;/p&gt;
+
+&lt;h3 id=&quot;우리-팀이-정리한-핵심-가치&quot;&gt;우리 팀이 정리한 핵심 가치&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;무엇이든 재미있게 합시다.&lt;/li&gt;
+  &lt;li&gt;팀과 함께 성장합니다.&lt;/li&gt;
+  &lt;li&gt;하고 싶은 일은 도전하세요, 하지만 힘들면 쉬어가세요.&lt;/li&gt;
+  &lt;li&gt;조건 없이 협력하고 일이 되게 만듭니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;온 보딩의 과정에 이런 내용을 넣어 신규로 입사하면 자연스럽게 팀의 문화와 규칙에 익숙해지도록 유도했다.&lt;/p&gt;
+
+&lt;h2 id=&quot;문서로-만들자&quot;&gt;문서로 만들자&lt;/h2&gt;
+
+&lt;p&gt;정리되지 않은 지식은 휘발되게 마련이다. 좋은 아이디어들도 정리되지 않으면 생각으로만 머물다가 없어진다.
+문서는 그래서 중요하다.
+그러나 무조건 문서가 많은 것도 좋은 것은 아니다. 만들기만 하고 사용하지 않은 문서는 의미가 없다.&lt;/p&gt;
+
+&lt;p&gt;꼭 필요한 문서를 핵심만 담아서 정리하는 것도 중요한 문화이다. 문서는 곧 공유의 시작이기 때문이다.
+문서를 기반으로 일이 이루어지면 사람이 일일이 이야기하지 않아도 문서로 업무의 많은 부분을 줄일 수 있다.&lt;/p&gt;
+
+&lt;p&gt;우리 팀은 위키로 정보를 정리하고 지식 체계화를 하고 있다.
+팀의 규칙과, 서비스 정보, 트러블 슈팅, 스펙 문서까지. 위키에서 팀의 모든 정보를 빠르게 찾아보도록 카테고리를 만들어 정리하고 있다.
+이렇게 만들어진 문서를 활용해 온 보딩과, 업무 가이드 및 작업에 활용하여 문서를 최신으로 유지시키고 있다.&lt;/p&gt;
+
+&lt;h2 id=&quot;사람이-답이다&quot;&gt;사람이 답이다&lt;/h2&gt;
+
+&lt;p&gt;팀은 사람이 있어야 유지된다. 특히나 IT 산업은 사람이 핵심 경쟁력이다.
+요새 우수한 인재를 채용하기 위해 개발자 몸값이 천정 부지로 오르고 있는 것도 그 때문이라고 생각된다.
+좋은 인재는 어떤 인재일까? 슈퍼 개발자가 들어오면 팀이 성공하는 것일까?&lt;/p&gt;
+
+&lt;p&gt;우리 팀의 좋은 인재는, 팀원들과 어우러져 팀플레이를 할 수 있는 팀 플레이어를 원한다. 혼자서 잘한다고 일은 돌아가지 않는다. 개별의 전투력이 약하더라도, 팀플레이에 능한 사람은 팀을 통해 이를 극복할 수 있다. 이를 위해 협력하고, 커뮤니케이션과 개선에 대한 에너지가 높은 인재가 필요하고, 우리 팀이 바라는 인재상이다.&lt;/p&gt;
+
+&lt;p&gt;이렇듯 본인의 팀에 맞는 팀원의 인재상을 만들어야 한다. 무작정 개발 잘하는 사람만 뽑으면 팀 문화나 팀 협업을 놓치게 되어 결과적으로 팀워크를 깨뜨리는 사례를 많이 봐왔다. 팀의 컬처 핏을 확실히 정리하고, 여기에 맞는 사람을 어떻게 뽑을지 채용절차까지 정리해 두어야 채용이 일관성 있게 진행될 수 있다.&lt;/p&gt;
+
+&lt;p&gt;우리 팀은 채용 관련해 핸드북을 한 달 동안 정리했다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;팀에 필요한 인재상을 정하고,&lt;/li&gt;
+  &lt;li&gt;인재상에 부합하는 기준을 정리
+    &lt;ul&gt;
+      &lt;li&gt;신입 / 경력의 기준&lt;/li&gt;
+      &lt;li&gt;서류 검토 시 점검하는 항목과 평가 기준 및 점수&lt;/li&gt;
+      &lt;li&gt;사전 평가 시 점검하는 항목과 평가 기준 및 점수&lt;/li&gt;
+      &lt;li&gt;1차 면접 시 점검하는 항목과 평가 기준 및 점수&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;면접 프로세스 정리
+    &lt;ul&gt;
+      &lt;li&gt;타임테이블 정리&lt;/li&gt;
+      &lt;li&gt;정리 템플릿&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;면접 가이드&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;이렇게 정리해 놓고 채용을 진행해 보니 지원자의 어떤 면을 봐야 할지 확실히 정리가 되고, 평가에 대한 기준도 명확해서 누구나 이해하기 쉬웠다.
+특히나 1차 면접 프로세스의 순서를 아래처럼 정리해서 진행하니 면접자들이 긍정적으로 반응했다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;인사 및 자기소개(5분)&lt;/li&gt;
+  &lt;li&gt;지원 직무 확인 &amp;amp; 아이스브레이킹(5분)&lt;/li&gt;
+  &lt;li&gt;면접 - 90분(면접 3명 참여 시 1인당 30분)&lt;/li&gt;
+  &lt;li&gt;회사 QnA(10분)&lt;/li&gt;
+  &lt;li&gt;상호 피드백 교환(10분)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;시작 전 아이스브레이킹을 통해 긴장도 줄이고, 친근감도 높여 면접 집중력을 높여 주고, 사전 면접자에 대한 리뷰로 질문을 준비해 확인하고 싶은 내용을 효율적으로 질문했다. 그리고 QnA를 통해 지원자의 궁금함이나 팀에 대한 문의를 답해주었는데. 여기서도 지원자의 성향이나 태도를 좀 더 볼 수 있는 시간이 되었다.
+특히 마지막 피드백 시간에서 지원자분이 받고 싶은 피드백을 질문해서 지원자와 면접관 사이에 서로 생각을 공유하고 개선 포인트를 찾아보는 시간으로도 사용해서 유용했다.&lt;/p&gt;
+
+&lt;p&gt;면접을 통해 실력의 검증도 있지만 면접을 보는 사람이 또 다른 학습을 하는 시간이라고 생각했다. 지원자가 최대한 얻는 것이 많도록 질문하고 피드백을 줘서, 꼭 합격이 아니더라도 배우고 성장하고 간다는 인상을 주면 나중에라도 우리 팀을 기억하지 않을까?&lt;/p&gt;
+
+&lt;p&gt;팀의 채용은 다른 어떤 것보다 중요한 프로세스이고, 기준과 과정에 대해 오랜 토론을 통해 정리가 필요하고,
+이 기준의 전체 팀원들에게도 공유 되어야 한다.
+사람을 잘 모으면 팀 빌딩의 절반은 끝난 것이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;짧은-회의와-스몰토크&quot;&gt;짧은 회의와 스몰토크&lt;/h2&gt;
+
+&lt;p&gt;업무 시간 중 회의가 차지하는 시간은 얼마나 되는가? 나처럼 리더를 맡다 보면 일주일 일정을 정리하다 보면 하루의 반 이상을 회의에 보낼 때가 많다.
+회의 자체가 업무일 수는 있지만 너무 긴 시간의 회의는 오히려 피로만 늘어나고 좋은 결론이 나지 않는 경우가 많다.&lt;/p&gt;
+
+&lt;p&gt;우리 팀도 초기 팀 빌딩을 위해 회의가 많았고, 이에 따른 팀원 들의 피로감에 대해서 많이 언급되었다.
+그래서 회의 시간을 줄이기 위한 몇 가지 방법을 만들어 실천하고 있다.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;회의록 선 공유
+회의 주제자가 회의록을 미리 적어 회의의 목적과 참가자들이 미리 정리할 내용을 공유하여 이슈에 대한 논의만 짧게 가져가도록 했다.
+그리고 회의의 핵심 목표와 기대 결과 등을 정리하여 집중하도록 했다.&lt;/li&gt;
+  &lt;li&gt;30분 단위 회의
+1시간 단위의 회의보다 30분 단위로 짧게 제약해서 집중도를 높이도록 했다. 불필요한 설명은 피하고, 사전회의록으로 미리 정보를 공유하여 핵심만 논의하면 30분으로도 회의는 가능하다.&lt;/li&gt;
+  &lt;li&gt;스크럼 시간의 활용
+별도 회의를 잡지 말고 아침에 하는 스크럼 시간에 빠르게 이야기하는 것도 회의를 줄이는 좋은 방법이다.
+별도 회의를 많이 하기 보더 모두 모이는 시간을 활용해서 간단한 이슈는 바로바로 논의해서 정리하면 불필요한 회의를 줄 일수 있다.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;적극적인-문화-만들기&quot;&gt;적극적인 문화 만들기&lt;/h2&gt;
+
+&lt;p&gt;개발자들은 내성적이다. 자기 생각을 잘 안 보여주려고 하고, 특별히 반박하고 싶어 하지도 않는다. 자기 일에 관련한 말만 조금 하고 싶을 이다.
+팀의 문제는 언제나 많다. 이런 문제를 이야기하는 자리에서도 침묵이 길어진다. 생각은 있지만 부끄러워하는 사람, 자신과 직접 연관 이슈가 아니라서 관심 없는 사람 여러 가지 상황들로 개발자들은 이야기를 잘 하지 않는다.&lt;/p&gt;
+
+&lt;p&gt;팀의 활기가 있고, 개선이 되려면 이야기를 쉽게 하고, 편안하게 이야기하는 분위기가 돼야 한다. 그래야 평소 생각을 편하게 이야기하고, 의견도 자연스럽게 가질 수 있다.&lt;/p&gt;
+
+&lt;p&gt;팀원들이 편하게 의견을 내는 분위기를 만들기 위해 무던히 노력을 했다. 나는 침묵의 시간을 굉장히 싫어해서 내가 주로 떠드는 편이었다. 그러다 보니 더더욱 팀원들이 이야기할 시간이 없었다. 그래서 나의 이야기는 줄이고 팀원들에게 시간을 많이 할애했다. ‘그래서 당신의 생각은?’ ‘돌아가면서 이야기해 볼까요?’ ‘어떻게 하면 좋을까요?’ 이렇게 피드백을 듣는 질문들로 유도하면서 이야기를 진행하니, 처음에는 쑥스러워 했지만 시간이 지나면 지날수록 자연스러운 이야기 참여가 가능했다.&lt;/p&gt;
+
+&lt;p&gt;상대방의 이야기를 잘 들어 줄 수 있는 마음가짐과 기회가 왔을 때 생각을 편하게 이야기하는 환경을 만들어 주는 것이 적극적인 팀 문화를 만드는 비결일 것이다.&lt;/p&gt;
+
+&lt;p&gt;하지만 이런 문화는 하루 이틀에 만들어지지 않는다. 3개월이고 4개월이고 꾸준히 이런 분위기를 유도하는 것은, 리더와 시니어 들의 몫이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;집단지성으로-일하기&quot;&gt;집단지성으로 일하기&lt;/h2&gt;
+
+&lt;p&gt;주니어 친구들이 주로 그렇지만, 개발자들은 문제를 만나면 혼자 풀어 보려고 애를 쓴다. 도움을 요청하는 것이 다른 사람의 시간을 방해하는 것 같고, 내 능력이 없어 보이기도 해서, 혼자 고민하다 시간을 많이 허비한다. 나도 그랬지만, 일반적인 개발자들의 습성이다.
+물론 혼자서 빨리 해결한다면 문제는 되지 않는다. 다만, 혼자서 해결이 불가능 한 이슈를 잡고 있다가, 팀 전체의 퍼포먼스를 덜어 뜨리는 경우가 문제이다.&lt;/p&gt;
+
+&lt;p&gt;팀의 개발 환경 셋 팀에 대한 업무를 하다가 기술 이슈에 막혀 개발 환경이 세팅이 늦어지면 전체 개발 일정에도 영향이 간다.
+이럴 때는 팀의 집단지성으로 빨리 해결하는 게 바람직하다. 문제에 대한 배경과 정확한 내용을 팀에 공유하고 그룹으로 방법을 찾으면 생각 보다 금방 이슈가 해결된다.
+팀원들의 다양한 경험치를 살려 빠르게 이슈를 해결해야, 개발 일정을 효율적으로 사용할 수 있다. 같은 질문의 반복은 안 좋지만, 팀을 통해 빠르게 해답을 찾는 것도 좋은 해결 방법이다.&lt;/p&gt;
+
+&lt;h2 id=&quot;회고로-돌아-보자&quot;&gt;회고로 돌아 보자&lt;/h2&gt;
+
+&lt;p&gt;애자일 프로세스에는 회고가 반드시 있어야 한다. 회고를 통해 한일의 내용을 복기하고, 일하면서 불편하거나 어려웠던 점들을 이야기하고 개선 계획을 세우는 것이 중요하다.
+우리 팀도 스크럼과 스프린트 운영의 애자일 프로세스로 일하고 있어 회고를 좋은 시간으로 쓰고 있다.
+업무에 관련한 것도 좋지만, 팀의 문화나, 평소에 토론하고 싶은 주제도 회고를 통해 서로 이야기하고, 구체적인 개선 방법을 정리하는 것도 좋은 방향이다.&lt;/p&gt;
+
+&lt;p&gt;회고를 통해서 업무나, 문화의 개선도 가져올 수 있지만, 팀이 끊임없이 개선한다는 팀 구성원의 프라이드도 가지게 하는 효과도 있다.
+우리는 항상 개선하려고 하고 있고 좋아지고 있다는 느낌을 주면 팀에 대한 소속감을 높일 수 있다.&lt;/p&gt;
+
+&lt;h2 id=&quot;내가-원하는-일에-집중&quot;&gt;내가 원하는 일에 집중&lt;/h2&gt;
+
+&lt;p&gt;우리팀은 가급적 원하는 업무에 맞춰 일을 배분한다. 자기가 원하는 일일 수록 집중역 높에 일하고, 그만큼의 보람도 돌아 올 수 있다.
+스프린트 업무 미팅에서 이런 업무 분배 과정을 거친다.&lt;/p&gt;
+
+&lt;p&gt;자신이 하고싶은 일에 손을 들고 가져가기 때문에 책임감이 높아지고, 도전적인 목표를 가진 업무로 역량도 자연스레 향상 된다.
+대신, 너무 일에 너무 욕심을 내다보면 번아웃이 오는 경우가 종종 있고, 야근이 많아 지는 경우가 있으니 감당 할 수있는 이슈인지 생각 해 보고 주위 에서도 피드백을 줘야 한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;운영과의-운명&quot;&gt;운영과의 운명&lt;/h2&gt;
+
+&lt;p&gt;우리 팀은 신규 플랫폼을 만드는 조직이다. 하지만, 초기 적용된 서비스들이 있고, 신규로 개발한 레거시로 만든 시스템도 있다. 어떤 개발 조직에도 운영이라는 업무는 필수 불가결하게 따라오는 업무이다.
+신규 플랫폼을 만드는 팀에서는 이런 운영 업무가 달갑지 않다. 운영 업무를 맡는 사람들은 신규 프로젝트 업무 참여에 대한 박탈감이 있다. 이런 점들이 쌓이면 팀워크가 깨지게 된다. 운영은 예전 코드를 수정하는 허드렛일로 보는 시각이 문제이다.&lt;/p&gt;
+
+&lt;p&gt;나는 팀 리더로 팀원들에게 문영의 중요함을 강조한다. 운영은 절대 작은 업무가 아니며, 팀의 핵심 경쟁력이다.
+플랫폼을 아무리 잘 만들어도 운영을 못하면 아무 소용이 없게 된다. 서비스에서 장애가 나고, 유지 보수가 되지 않는 플랫폼을 누가 써줄까?
+새로운 것을 만들기 위해서는 기존 것을 잘하는 것이 토대가 돼야 한다. 운영은 신규 기술 개발을 위한 기본 요건이다. 그래서 운영은 중요한 업무이고 팀의 경쟁력이다.&lt;/p&gt;
+
+&lt;p&gt;운영을 통해서 많은 것들을 배울 수 있다. 신규 플랫폼을 만들 때는 팀 내 커뮤니케이션을 주로 하지만, 유지 보수를 하면서는 외부 부서와 커뮤니케이션을 해야 한다. 이 과정에서 자연스럽게 남과 이야기하는 방법 그리고, 다른 부서분들과 친분도 쌓을 수 있게 된다. 즉 사내 인맥이 강화된다. 내가 운영이라는 일을 하면서 가장 많이 배운 점이 커뮤니케이션이다. 운영에는 다양한 이슈가 발생하고, 이슈에 대한 해결을 위해 커뮤니케이션이 필요하다. 이런 과정을 통해 자연스럽게 외부와 커뮤니케이션을 능숙하게 할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;레거시를 통해 기술적인 성장도 가져올 수 있다. 레거시를 유지 보수하면서 누더기 코드를 만든다는 자괴감에 빠질 수 있지만, 누더기 코드를 만들지 말고 개선하는 프로젝트도 진행해 보면 어떨까? 기존 코드를 읽어서 개발 의도를 이해해 내는 것도 좋은 역량 중에 하나이다. 다른 사람의 코드를 빨리 이해할 수 있는 것은 좋은 개발 역량이다. 그만큼 다른 프로젝트에서도 금방 적응할 수 있다.&lt;/p&gt;
+
+&lt;p&gt;나는 운영을 통해 이런 3가지의 큰 장점을 얻을 수 있다고 생각한다.
+아직도 운영이 괴로운 업무라고 생각하는가? 다시 돌아 보면 정말 가치 있는 일이다. 이것으로 얻는 성과도 높다.&lt;/p&gt;
+
+&lt;h2 id=&quot;팀으로-성장하기&quot;&gt;팀으로 성장하기&lt;/h2&gt;
+
+&lt;p&gt;업무나 학습을 통해 개인은 성장한다. 개인이 성장한다고 팀이 성장할까?
+개인의 성장의 과정에 따라 팀도 같이 성장한다. 스스로의 성장에 대해 기록하고, 팀에 공유하고, 외부에 발표하면서 팀도 같이 성장할 수 있다.
+혼자서만 아는 지식은 개인의 성장에 그치지만, 혼자 아는 지식을 문서로 공유하거나 팀에 설명해서 같이 공유하면, 팀의 역량이 올라간다.
+혼자 공부하지 않고 스터디그룹으로 학습하면서 팀을 성장시켜야 한다.&lt;/p&gt;
+
+&lt;p&gt;앞에서 이야기한 모든 팀 활동과 개선 과정을 통해 개인의 마인드 셋을 변화 시켜야 팀이 성장한다.
+내가 강해지면 팀이 강해지고 강한 팀은 나를 더 강하게 밀어 줄 수 있다는 확신을 주어야 한다.&lt;/p&gt;
+
+&lt;h2 id=&quot;앞으로-우리-팀은&quot;&gt;앞으로 우리 팀은.&lt;/h2&gt;
+
+&lt;p&gt;이런 이야기를 하다 보니 무언가 대단한 팀이 된 것 같지만, 아직도 우리 팀은 빌딩 중이다.
+새로운 분들이 오시고, 새로운 일이 생기고, 새로운 환경에 적응하고 있다.
+하지만 우리가 만든 좋은 문화가 있기에 이런 변화들이 두렵지 않다.
+지금의 문화를 계속 이어가고 더 좋게 만들어 가는 것이 앞으로 가야 할 팀의 방향이다.
+지금보다 더 편하고, 즐겁게 일하는 팀이 되도록 나와 동료들은 열린 마음으로 이야기하고 있다.&lt;/p&gt;
+
+&lt;p&gt;3명에서 지금의 10명의 팀이 되기까지 힘든 일도 많았지만, 어느 대보다 즐겁게 팀을 빌딩 했다.
+같은 마음으로 동료들을 신뢰할 수 있어서 였지 않을까 싶다. 이런 훌륭한 팀을 만들어준 동료분들에게 박수를 보낸다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;어떤가요? 우리 팀과 같이 성장해 보시면 어때요? 연락을 기다립니다.&lt;br /&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;홈빌더팀 소개 : &lt;a href=&quot;https://naver-career.gitbook.io/kr/service/etech#homebuilder&quot;&gt;https://naver-career.gitbook.io/kr/service/etech#homebuilder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Deview 발표 영상 : &lt;a href=&quot;https://tv.naver.com/v/23649508&quot;&gt;https://tv.naver.com/v/23649508&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;채용문의 : &lt;a href=&quot;mailto://dl_homebuilder_recruit@navercorp.com&quot;&gt;dl_homebuilder_recruit@navercorp.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="work" />
+      
+
+      
+        <summary type="html">우리 팀의 빌딩 스토리와 팀워크</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">7월 22일 기술 스크랩</title>
+      <link href="/https://sshyun.github.io/0722-tech" rel="alternate" type="text/html" title="7월 22일 기술 스크랩" />
+      <published>2022-05-26T20:40:00+00:00</published>
+      <updated>2022-05-26T20:40:00+00:00</updated>
+      <id>/https://sshyun.github.io/0722-tech</id>
+      <content type="html" xml:base="/https://sshyun.github.io/0722-tech">&lt;h2 id=&quot;getting-started-with-vue-composables&quot;&gt;&lt;a href=&quot;https://javascriptweekly.com/link/126349/8bed9fbbb9&quot;&gt;Getting Started with Vue Composables&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;조립형 컴포넌트를 위한 hook 형태의 함수모음(?)&lt;/li&gt;
+  &lt;li&gt;Vue에서도 재사용을위해 hook을 도입 하는구나.&lt;/li&gt;
+  &lt;li&gt;composables 하다는 의미는 재사용성 일까? 유틸함수를 모아 놓은 것 같은데?&lt;/li&gt;
+  &lt;li&gt;재사용 가능한 함수API로 컴포넌트를 개발 하라는 의미 일지도.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;an-introduction-to-functional-programming-in-js&quot;&gt;An Introduction to Functional Programming in JS&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XGNYDjyD6G8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;함수형 프로그래밍의 기초에 관한 영상&lt;/li&gt;
+  &lt;li&gt;React hook 을 사용하고 있으니 일반적인 이야기?&lt;/li&gt;
+  &lt;li&gt;OOP기반의 객체 보다 데이터기반으로 함수를 통해 정제결과를 얻는 방식&lt;/li&gt;
+  &lt;li&gt;근데 누가 더 좋다 나쁘다는 아닐거 같고
+    &lt;ul&gt;
+      &lt;li&gt;상황에 맞게 써야 하지 않을까?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;확실히 테스트는 유리 하다
+    &lt;ul&gt;
+      &lt;li&gt;객체는 쓸대없이 더미 파라메터나 의미없는 셋팅을 해야 하는경우가 있다.&lt;/li&gt;
+      &lt;li&gt;함수는 그에 비해 입력 / 출력만 검증 하면 그뿐&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;currying을 사용한 함수의 composition은 너무 올드패션 아닐까?
+    &lt;ul&gt;
+      &lt;li&gt;근데 currying이 정말 좋은 방법일지는 미지수&lt;/li&gt;
+      &lt;li&gt;복잡도나 디버깅이 어렵다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;영상에 있는 내용을 코드로 만들어 봤다. (코딩하니 행복해..)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// OOP
+// ClassMember 라는 객체 명세를 알아야함
+// increasePay는 객체 내부로 숨겨짐
+// increasePay는 Class 한정이고 다른 Class 에서 재사용 불가
+// Test 시 객체를 생성 해야함. 사용하지 않는 더미 파라메터가 필요.
+class ClassMember {
+       
+    constructor (name, pay) {
+        this.name = name;
+        this.pay = pay;
+    }
+ 
+    getPay() {
+       return this.pay
+    }
+ 
+    increasePay(amount) {
+       this.pay = this.pay + amount;
+    }
+}
+ 
+const members = [
+    new ClassMember(&quot;성식형&quot;, 100),
+    new ClassMember(&quot;김코딩&quot;, 100),
+];
+ 
+const updateMembers = members.map((member)=&amp;gt;{ return member.increasePay(300)};
+ 
+ 
+// 함수형
+// FuncMembers 라는 데이터 구조를 알아야함
+// 그에 맞춰서 increasePay 를 구현
+// increasePay는 함수이므로 같은 규격의 데이터라면 재사용이 가능
+// 독립 함수라 Test를 쉽게 함. 검증데이터만 넣으면 됨.
+const FuncMembers = [
+    [&quot;성식형&quot;, 100],
+    [&quot;김코딩&quot;, 100]
+];
+ 
+function increasePay(members, amount) {
+    return members.map((member)=&amp;gt;{
+        retur [member[0], member[1] + amount];
+    });
+}
+ 
+increasePay(FuncMembers, 300);
+ 
+// currying
+// 함수의 합성이 과연 좋은 방법일까?
+function currying(func){
+    return function(firstValue){
+        return function(secondValue) {
+            return func(firstValue, secondValue);
+        }
+    }
+}
+ 
+const add = currying((a,b)=&amp;gt;{ return a+b});
+console.log(add(1)(3));
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tech" />
+      
+
+      
+        <summary type="html">Getting Started with Vue Composables</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">발표는 어렵다</title>
+      <link href="/https://sshyun.github.io/presentation" rel="alternate" type="text/html" title="발표는 어렵다" />
+      <published>2022-05-22T20:40:00+00:00</published>
+      <updated>2022-05-22T20:40:00+00:00</updated>
+      <id>/https://sshyun.github.io/presentation</id>
+      <content type="html" xml:base="/https://sshyun.github.io/presentation">&lt;h1 id=&quot;pt는-언제쯤-잘-할-수-있을까&quot;&gt;PT는 언제쯤 잘 할 수 있을까?&lt;/h1&gt;
+
+&lt;h3 id=&quot;pt는-어렵다&quot;&gt;PT는 어렵다.&lt;/h3&gt;
+
+&lt;p&gt;리더가 되면서 상반기 한번, 하반기 한번 성과 발표 PT가 있다.
+이번 상반기 발표는 5월이었는데. 상반기도 안 끝났는데 무슨 발표? 하는 사람도 있을 것이다.
+6월에 맞춘 상위 보고를 하려면 우리는 5월에 정리해야 한다. 하반기는 11월에 준비해야 하고…하고..이맘때 쯤되면 머리가 아프고 속이 쓰리다. 개발자가 아니라 소설가가 처음 글 쓰는 데만 2~3주를 집중 해야 한다.
+열심히 할 필요가 있나? 이 발표로 우리가 한 일을 정리하기도 하지만 다른 부서에 자랑하고, 팀원들을 으쓱하게 만들어야 하는 목표도 있다.
+가장 어려운 것은 15분 안에 끝내야 한다는 것… ㅜㅜ;&lt;/p&gt;
+
+&lt;p&gt;15분 안에 수십 명의 청중에게 우리 팀이 한 일을 핵심만 추려서 알려줘야 한다.
+발표도 후덜덜 어려운데 자료 만드는 건 거 힘들다.
+지금까지 몸으로 익힌 노하우 몇 개를 잊지 않도록 정리해 본다.&lt;/p&gt;
+
+&lt;h3 id=&quot;핵심-포인트&quot;&gt;핵심 포인트&lt;/h3&gt;
+&lt;p&gt;오늘의 핵심포인트 이다. 바쁜 분들은 이것만 기억해라.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;1. 앞에서 끝내야 한다.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;2. 듣는 사람을 설득해라.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;3. 스토리를 먼저 만들어라.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;4. 상대방의 입장에서 생각하라.&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;5. 디자인 보다 내용이다.&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;앞에서-끝내야-한다&quot;&gt;앞에서 끝내야 한다.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;1두괄식으로-정리해라&quot;&gt;1.두괄식으로 정리해라.&lt;/h4&gt;
+&lt;p&gt;&lt;strong&gt;발표 도입부에서 이 발표를 끝내야 한다.&lt;/strong&gt;
+처음 PT 만들 때 이 실수를 제일 많이 한다. 하는 일의 나열만 하다 보니 앞부분이 장황해지고, 앞에서 벌써 청중들은 지루해한다..&lt;/p&gt;
+
+&lt;p&gt;내가 작성한 초기 글의 흐름이다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;작년에 이어 올해는 시스템의 안정성을 위해 단단한 인프라 구축이 목표&lt;/li&gt;
+  &lt;li&gt;이전의 시스템의 수정을 통해 효율화 진행&lt;/li&gt;
+  &lt;li&gt;내년에는 이런 시스템을 가지고 서비스 경쟁력 향상을 가져가겠다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;처음에 이게 뭐가 잘못된 것인지 잘 이해가 안 되었다. 할 이야기를 썼고 성과는 이렇다고 정리했는데 뭐가 문제일까?
+이 내용을 듣는 사람은 아래처럼 느낄 것이다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;무슨 이야기를 하려는 거지? &lt;br /&gt;
+아… 그냥 저런 거 했구나… &lt;br /&gt;
+지루하네…이 문장을 이렇게 바꿔보자.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;올해 개발의 방향성 - 시스템 안정화
+    &lt;ul&gt;
+      &lt;li&gt;단단한 인프라의 구축&lt;/li&gt;
+      &lt;li&gt;시스템 리팩토링을 통한 유지 보수 효율화&lt;/li&gt;
+      &lt;li&gt;내년 개발 목표 - XXX 시스템 개발로 서비스 경쟁력 강화&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;앞의 내용보다 목적과 의미가 제목에서 드러난다. 앞에서 주제를 먼저 정리 하고, 뒤에서 이를 설명하는 흐름이 되어야 한다.
+PT의 모든 내용은 두괄식으로 정리해야 한다. 왜냐하면 대부분 청중은 PT에 집중하지 않는다. 앞에서 핵심 내용을 정리해 주면 뒤 내용을 듣지 않아도 이 발표의 핵심은 전달 한 셈이다.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. 내용의 앞에서 이 발표의 주제를 한 문장으로 정리해서 보여 주어야 한다.&lt;/strong&gt;
+말이 길면 의미 전달력이 떨어진다. 아래 내용을 보자.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;사업 목적&lt;/li&gt;
+  &lt;li&gt;외부 데이터를 사용한 도구 개발&lt;/li&gt;
+  &lt;li&gt;서비스의 웹 사이트, 애플리케이션 제작 플랫폼 제공&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;일반적인 설명이다. 하지만 그게 전부이다. 어떤 시스템인지 설명은 하지만 목적도 희미하고 필요성도 느껴지지 않는다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;사용자가 API를 활용해 웹 사이트를 레고 블록처럼 만드는 No Code Platform입니다. &lt;br /&gt;
+개발자는 낮은 비용으로 서비스에 추가할 수 있습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;어떤가? 한 문장으로 앞에서 이야기한 내용을 담으면서 함축적으로 특징을 이야기한다.
+글이 길어지면 청중이 지루해한다. . 하지만, 너무 요약해도 독이 되는 경우가 있다.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;디자인 시스템 도입 -&amp;gt; UI 파편화 방지 및 공용 UI 개발&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;짧아 보이지만 너무 줄여서 의미 이해가 쉽지 않다.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;디자인 시스템은 UI 파편화의 방지와 공용 UI 개발을 위해 도입 필요&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;조금 길기는 하지만 더 정확하게 의미 전달이 가능하다.
+핵심만 짧게 하지만 이해하기 쉽게… 말은 쉽지만, 막상 해보면 제일 어려운 과정이다.&lt;/p&gt;
+
+&lt;h3 id=&quot;듣는-사람을-어떻게-만들것인가&quot;&gt;듣는 사람을 어떻게 만들것인가?&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PT는 설득이다. 발표로 청중을 설득해야 한다. 발표가 끝난 후에 듣는 사람이 어떻게 될지 먼저 정의 해라.
+이 발표를 하고 나면 듣는 사람은 의도한 상태나 상황이 되어야 한다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;이 제품을 꼭 쓰고 싶은데? &lt;br /&gt;
+이 플랫폼은 기능이 좋구나.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;이런 기대치를 먼저 정하고 내용을 써보자. 어떻게 설득해야 할지 조금 더 깊은 고민을 할 수 있다.&lt;/p&gt;
+
+&lt;h3 id=&quot;스토리를-먼저-만들어라&quot;&gt;스토리를 먼저 만들어라.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PT는 이야기이다. 발표가 무슨 소설이야고 하지만, 내가 배운 PT는 짧은 소설이다.
+도입부 -&amp;gt; 중간과정 -&amp;gt; 결론
+무엇을 이야기할지 스토리를 만들어야 한다.&lt;/p&gt;
+
+&lt;p&gt;듣는 사람이 신사업의 목표를 보고 우리에게 투자해야 한다고 해보자.&lt;/p&gt;
+
+&lt;p&gt;두서없는 순서의 예시이다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;신사업 목적 및 현황&lt;/li&gt;
+  &lt;li&gt;사업의 목적&lt;/li&gt;
+  &lt;li&gt;현재 현황&lt;/li&gt;
+  &lt;li&gt;개발 전략 및 로드맵&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;당신은 이 사람에게 투자하겠는가? 비전도 약하고 설득도 안 된다.
+그럼 어떻게 이 사람이 투가 하게 만들까?&lt;/p&gt;
+
+&lt;p&gt;다시 잡아본 이야기의 흐름은 이렇다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;우리 제품은 이거다.&lt;/li&gt;
+  &lt;li&gt;최근 이쪽 시장 상황이 이렇다.&lt;/li&gt;
+  &lt;li&gt;근데 지금 회사에는 이런 솔루션이 없다.&lt;/li&gt;
+  &lt;li&gt;우리는 이미 만들고 있고, 우리가 회사 내 최고다&lt;/li&gt;
+  &lt;li&gt;앞으로 이런 목표를 가지고 3년 뒤에는 이렇게 성장할 것이다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;상대방을 설득하게 하려면, 근거로 설득 해야 한다. 그것도 수치와 객관적인 자료면 더욱 좋다.
+이런 종류의 문서를 피치 덱(pitch deck)이라고 한다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;피치 덱(pitch deck)은 5분에서 10분 정도의 짧은 시간의 발표 형식에 최적화되어 있는 투자제안서의 요약 버전입니다. &lt;br /&gt;
+무엇보다 투자자가 투자가치 판단이 가능한 피치 덱이 핵심입니다. &lt;br /&gt;
+투자가치 판단에 요구되는 설득력 있는 내용 구성과 스토리라인의 완결성이 중요합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;스타트업에서 주로 PT 할 때 사용하는 방식이다. 이런 PT를 위한 템플릿 솔루션도 있다. (&lt;a href=&quot;https://piktochart.com/&quot;&gt;piktochart&lt;/a&gt;)
+스타트업들은 이런 PT로 투자받아야 하니 나 같은 초보는 생각도 못 할 일이다.&lt;/p&gt;
+
+&lt;h3 id=&quot;상대방의-입장에서-생각하라&quot;&gt;상대방의 입장에서 생각하라.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이번에 PT를 만들면서도, 제일 많이 지적받은 것이 내 할 말만 늘어놓는다는 라는 지적이었다.
+PT를 적다 보면 어느샌가 내가 하고 싶은 이야기만 적고 있다.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;‘나 이거 잘했고, 이런 거 했어요. 그래서 이런 거 할 거예요’&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;듣는 사람은 그걸 알고 싶은 게 아니다. 이런 게 궁금하지 않을까?&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;저 팀은 저렇게 문제를 풀었구나. &lt;br /&gt;
+저 기능은 저래서 만들었군. &lt;br /&gt;
+저런 경험도 했네! 나중에 물어봐야지.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;듣는 사람이 궁금한 이야기를 해야 잘 들어준다. 이 발표를 통해서 어떤 걸 듣고 싶은지도 생각하면서 자료를 만들어야 한다.
+내가 할 말만 하면 듣는 사람들은 시간만 낭비할 뿐이다.&lt;/p&gt;
+
+&lt;h3 id=&quot;논리적으로-이야기를-만들어라&quot;&gt;논리적으로 이야기를 만들어라.&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;이야기는 What,Why -&amp;gt; How -&amp;gt; Now 순으로 풀면 좋다.
+이번에 큰 도움을 받은 내용이다. PT 내용이 산만하고 정리가 안 돼서 고민을 하는 중에 팀 동료가 조언을해주었다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;모듈화 개발
+    &lt;ul&gt;
+      &lt;li&gt;기존 문제&lt;/li&gt;
+      &lt;li&gt;솔루션&lt;/li&gt;
+      &lt;li&gt;상반기 진행 상황&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;디자인 시스템
+    &lt;ul&gt;
+      &lt;li&gt;기존 문제&lt;/li&gt;
+      &lt;li&gt;솔루션&lt;/li&gt;
+      &lt;li&gt;상반기 진행 상황&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;머리속에 딱 하고 박히는 방법이었다. 이런 문제를 이렇게 풀려고 했고 이만큼 했다. 이런 흐름이면 상대방이 이해하기 쉬운 논리구조가 될 것이다.
+하반기는 이런 흐름이지 않을까?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;모듈화 개발
+    &lt;ul&gt;
+      &lt;li&gt;문제&lt;/li&gt;
+      &lt;li&gt;솔루션&lt;/li&gt;
+      &lt;li&gt;올해 성과&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;디자인 시스템
+    &lt;ul&gt;
+      &lt;li&gt;문제&lt;/li&gt;
+      &lt;li&gt;솔루션&lt;/li&gt;
+      &lt;li&gt;올해 성과&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;이 일을 왜 했는지? 어디까지 했는지?&lt;/strong&gt; 가 내용의 핵심이었다. 이렇게 정리하고 나니 이전보다 내용 이해가 쉽고 의미 전달이 잘 되었다.&lt;/p&gt;
+
+&lt;h4 id=&quot;디자인-보다-내용이다&quot;&gt;디자인 보다 내용이다.&lt;/h4&gt;
+
+&lt;p&gt;내가 못 버리는 습관이다. 다이어그램이나 그림에 너무 공을 들여서 정작 내용은 정리가 부실하다.
+심지어 그림 때문에 내용이 집중되지 않는다는 의견도 들었다.
+3시간을 그리면 뭐 하나 의미 없는 색 놀이인데&lt;/p&gt;
+
+&lt;p&gt;차라리 단순하게 의미를 드러내는 그림이 훨씬 좋다.&lt;/p&gt;
+
+&lt;h1 id=&quot;남들-앞에서는-아직&quot;&gt;남들 앞에서는 아직…&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/20220522/pt_6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;PT 만든 지는 한 3년 정도 돼가는 것 같다. 처음에는 만들어도 만들어도 늘지 않는 실력에 좌절하기도 했지만, 넘어지는 것도 훈련이라 이제는 다른 사람 것도 조금 볼 수 있는 상태가 되었다. 자료 작성에는 그나마 익숙해지고 있는데, 면대면으로 하는 PT는 아직도 낯설다.
+스크립트를 다 외워서 능수능란하게 PT 할 수 있는 날이 올지 모르겠지만, 한 걸음 한 걸음 가다 보면 나아지겠지.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="work" />
+      
+
+      
+        <summary type="html">PT는 언제쯤 잘 할 수 있을까?</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">첫 포스팅</title>
+      <link href="/https://sshyun.github.io/first-postting" rel="alternate" type="text/html" title="첫 포스팅" />
+      <published>2022-05-22T10:00:00+00:00</published>
+      <updated>2022-05-22T10:00:00+00:00</updated>
+      <id>/https://sshyun.github.io/first-postting</id>
+      <content type="html" xml:base="/https://sshyun.github.io/first-postting">&lt;p&gt;첫 포스팅.&lt;/p&gt;
+
+&lt;p&gt;블로그를 한번 해볼까 한다.&lt;/p&gt;
+
+&lt;p&gt;귀찮은 생각에 10년이라는 개발자의 삷에서 나의 흔적이 없는게 아쉽기도 하고,
+내 생각을 정리하는 공간도 필요하고,
+살면서 기억하고 싶은 순간들도 쓰고 싶어서 블로그를 한번 써볼까 한다.&lt;/p&gt;
+
+&lt;p&gt;얼마나 잘써질지는 모르겠지만. 일딴 시작이 반이니 &lt;strong&gt;화이팅&lt;/strong&gt; 해보고, 기록을 열심히 남겨보자~!&lt;/p&gt;
+
+&lt;p&gt;GOGO!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="lifelog" />
+      
+
+      
+        <summary type="html">첫 포스팅.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

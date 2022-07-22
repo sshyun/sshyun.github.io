@@ -1,0 +1,678 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+    <!-- Document Settings -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <!-- Base Meta -->
+    <!-- dynamically fixing the title for tag/author pages -->
+
+
+
+    <title>Article 서비스 오픈!</title>
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- Styles'n'Scripts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="https://sshyun.github.io/assets/built/screen.css" />
+    <link rel="stylesheet" type="text/css" href="https://sshyun.github.io/assets/built/screen.edited.css" />
+    <link rel="stylesheet" type="text/css" href="https://sshyun.github.io/assets/built/syntax.css" />
+    <!-- highlight.js -->
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css">
+    <style>.hljs { background: none; }</style>
+
+    <!--[if IE]>
+        <style>
+            p, ol, ul{
+                width: 100%;
+            }
+            blockquote{
+                width: 100%;
+            }
+        </style>
+    <![endif]-->
+    
+    <!-- This tag outputs SEO meta+structured data and other important settings -->
+    <meta name="description" content="my work, my life, my memory" />
+    <link rel="shortcut icon" href="https://sshyun.github.io/assets/images/favicon.png" type="image/png" />
+    <link rel="canonical" href="https://sshyun.github.io/article-open" />
+    <meta name="referrer" content="no-referrer-when-downgrade" />
+
+     <!--title below is coming from _includes/dynamic_title-->
+    <meta property="og:site_name" content="mi diario" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Article 서비스 오픈!" />
+    <meta property="og:description" content="드디어 Article 오픈 Article Beta Service https://article.me 3년만에 오픈한 Article 서비스. 아직은 Closed Beta 서비스 이지만 3년만에 빛을 본 서비스이다. ( 참 우여 곡절이 많은 서비스이지만, 자세한 이야기는 대외비라..) Article의 미션은, 현존하는 최고의 UGC 도구와 서비스의 개발 이었다. =ㅁ=;; 좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?" />
+    <meta property="og:url" content="https://sshyun.github.io/article-open" />
+    <meta property="og:image" content="https://sshyun.github.io/assets/images/20220607/0607_cover.png" />
+    <meta property="article:publisher" content="https://www.facebook.com/sungsic.hyun" />
+    <meta property="article:author" content="https://www.facebook.com/sungsic.hyun" />
+    <meta property="article:published_time" content="2022-06-07T17:00:00+00:00" />
+    <meta property="article:modified_time" content="2022-06-07T17:00:00+00:00" />
+    <meta property="article:tag" content="Work" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Article 서비스 오픈!" />
+    <meta name="twitter:description" content="드디어 Article 오픈 Article Beta Service https://article.me 3년만에 오픈한 Article 서비스. 아직은 Closed Beta 서비스 이지만 3년만에 빛을 본 서비스이다. ( 참 우여 곡절이 많은 서비스이지만, 자세한 이야기는 대외비라..) Article의 미션은, 현존하는 최고의 UGC 도구와 서비스의 개발 이었다. =ㅁ=;; 좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?" />
+    <meta name="twitter:url" content="https://sshyun.github.io/" />
+    <meta name="twitter:image" content="https://sshyun.github.io/assets/images/20220607/0607_cover.png" />
+    <meta name="twitter:label1" content="Written by" />
+    <meta name="twitter:data1" content="mi diario" />
+    <meta name="twitter:label2" content="Filed under" />
+    <meta name="twitter:data2" content="Work" />
+    <meta name="twitter:site" content="@" />
+    <meta name="twitter:creator" content="@" />
+    <meta property="og:image:width" content="1400" />
+    <meta property="og:image:height" content="933" />
+
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Website",
+    "publisher": {
+        "@type": "Organization",
+        "name": "mi diario",
+        "logo": "https://sshyun.github.io/assets/images/blog-logo.png"
+    },
+    "url": "https://sshyun.github.io/article-open",
+    "image": {
+        "@type": "ImageObject",
+        "url": "https://sshyun.github.io/assets/images/20220607/0607_cover.png",
+        "width": 2000,
+        "height": 666
+    },
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://sshyun.github.io/article-open"
+    },
+    "description": "드디어 Article 오픈 Article Beta Service https://article.me 3년만에 오픈한 Article 서비스. 아직은 Closed Beta 서비스 이지만 3년만에 빛을 본 서비스이다. ( 참 우여 곡절이 많은 서비스이지만, 자세한 이야기는 대외비라..) Article의 미션은, 현존하는 최고의 UGC 도구와 서비스의 개발 이었다. =ㅁ=;; 좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?"
+}
+    </script>
+
+    <!-- <script type="text/javascript" src="https://demo.ghost.io/public/ghost-sdk.min.js?v=724281a32e"></script>
+    <script type="text/javascript">
+    ghost.init({
+    	clientId: "ghost-frontend",
+    	clientSecret: "f84a07a72b17"
+    });
+    </script> -->
+
+    <meta name="generator" content="Jekyll 3.6.2" />
+    <link rel="alternate" type="application/rss+xml" title="Article 서비스 오픈!" href="https://sshyun.github.io/feed.xml" />
+
+
+</head>
+<body class="post-template">
+
+    <div class="site-wrapper">
+        <!-- All the main content gets inserted here, index.hbs, post.hbs, etc -->
+        <!-- default -->
+
+<!-- The tag above means: insert everything in this file
+into the {body} of the default.hbs template -->
+
+<header class="site-header outer">
+    <div class="inner">
+        <nav class="site-nav">
+    <div class="site-nav-left">
+        
+            
+                <a class="site-nav-logo" href="https://sshyun.github.io/"><img src="https://sshyun.github.io/assets/images/blog-logo_s.png" alt="mi diario" /></a>
+            
+        
+        
+            <ul class="nav" role="menu">
+    <li class="nav-home" role="menuitem"><a href="https://sshyun.github.io/">Home</a></li>
+    <li class="nav-about" role="menuitem"><a href="https://sshyun.github.io/about/">About</a></li>
+</ul>
+
+        
+    </div>
+    <div class="site-nav-right">
+        <div class="social-links">
+            
+                <a class="social-link social-link-fb" href="https://facebook.com/sungsic.hyun" target="_blank" rel="noopener"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+</a>
+            
+            
+        </div>
+        
+    </div>
+</nav>
+
+    </div>
+</header>
+
+<!-- Everything inside the #post tags pulls data from the post -->
+<!-- #post -->
+
+<main id="site-main" class="site-main outer" role="main">
+    <div class="inner">
+
+        <article class="post-full  tag-work post ">
+
+            <header class="post-full-header">
+                <section class="post-full-meta">
+                    <time class="post-full-meta-date" datetime=" 7 June 2022"> 7 June 2022</time>
+                    
+                        <span class="date-divider">/</span>
+                        
+                            
+                               <a href='https://sshyun.github.io/tag/work/'>WORK</a>
+                            
+                        
+                    
+                </section>
+                <h1 class="post-full-title">Article 서비스 오픈!</h1>
+            </header>
+
+            
+            <figure class="post-full-image" style="background-image: url(https://sshyun.github.io/assets/images/20220607/0607_cover.png)">
+            </figure>
+            
+
+            <section class="post-full-content">
+                <div class="kg-card-markdown">
+                    <h1 id="드디어-article-오픈">드디어 Article 오픈</h1>
+
+<figure>
+  <img data-action="zoom" src="assets/images/20220607/article_intro.png" alt="absolute" />
+  <figcaption><a href="https://article.me" target="blank">Article Beta Service</a></figcaption>
+</figure>
+
+<p><a href="https://article.me">https://article.me</a></p>
+
+<p>3년만에 오픈한 Article 서비스. 아직은 Closed Beta 서비스 이지만 3년만에 빛을 본 서비스이다.
+( 참 우여 곡절이 많은 서비스이지만, 자세한 이야기는 대외비라..)</p>
+
+<p>Article의 미션은,</p>
+
+<blockquote>
+  <p>현존하는 최고의 UGC 도구와 서비스의 개발</p>
+</blockquote>
+
+<p>이었다. =ㅁ=;;
+좀 과한 목표가 아닐까 싶었지만, 결과적으로는 이만한 도구와 서비스가 있을까 하는?</p>
+
+<h1 id="글쓰기-최강의-도구-smarteditorone">글쓰기 최강의 도구 SmartEditorONE</h1>
+
+<p><a href="https://smarteditor.naver.com/desktop/">SmartEditorONE 브랜드 사이트</a> (홈빌더도 만들어야지..)</p>
+
+<p>SmartEditor를 아는 사람들은 많을것이다. (아마도 블로그 에디터로..)
+하지만 의외로 스마트 에디터는 여러곳에서 사용된다.</p>
+
+<ul>
+  <li><a href="https://shopping.naver.com/living/homeliving/stores/100641053/products/6767872476?NaPm=ct%3Dl43x3mj3%7Cci%3Dshoppingwindow%7Ctr%3Dswl%7Chk%3D1445408e54b3fdde61c60b96a855eae5a33cb8db%7Ctrx%3D">네이버 스마트스토어의 상품글</a></li>
+  <li><a href="https://contents.premium.naver.com/artandlife/knowledge/contents/220605213301550ra">네이버 프리미엄 콘텐츠의 편집기</a></li>
+  <li><a href="https://cafe.naver.com/hkct/984714?art=aW50ZXJuYWwtY2FmZS1zZWN0aW9uLWVkaXRvcnMtcGljaw.eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWZlVHlwZSI6IkNBRkVfSUQiLCJhcnRpY2xlSWQiOjk4NDcxNCwiaXNzdWVkQXQiOjE2NTQ1OTE3Nzg2MjEsImNhZmVJZCI6MTAxODYxMTl9.PAuYQWM_hu03YJC9yFzZHhRefyeDN9c6lp_r_jjSCs8">네이버 까페 글쓰기</a></li>
+</ul>
+
+<p>SmartEditor는 다음 미션에 집중했다.</p>
+
+<h2 id="미려한-글쓰기">미려한 글쓰기</h2>
+
+<p>SmartEditor는 세련된 글을 빠르게 작성 가능한 에디터이다. 거기에 Mobile / PC / Tablet 까지 지원되는 글로벌에서도 찾아 보기 힘든 에디터라고 생각한다.
+Article의 핵심 경쟁력은 글에서 나오는것이고 SE가 그 중심에 있다.</p>
+
+<h3 id="stylizer---se만의-테마-시스템기술">Stylizer - SE만의 테마 시스템기술</h3>
+
+<video class="AboutArticle__video__tY8_k" autoplay="" muted="" loop="" playsinline=""><source src="https://fe-article.pstatic.net/video/about_concept.61dd2a9081fb62af6a1b.mp4" type="video/mp4" /></video>
+
+<p>원클릭으로 같은 글을 전혀 다른 UI로 표현 할 수 있다면?
+SE의 문서는 HTML 이아닌 데이터로 되어있어 UI와 내용의 분리가 가능하다.
+그래서 같은 글의 데이터를 전혀 다른 UI 셋으로 변경 가능하다. 이를 위해서는 고도의 마크업 기술과 FE기술이 접목 되어야 한다.
+SE가 가지고 있는 강력한 기능 중의 하나.</p>
+
+<p>Article 의 최초 시연때 이기능을 보고 외국관계자 들이 극찬을 했다는 일화는 아직도 기억이 난다.</p>
+
+<h2 id="다양한-글기능-지원">다양한 글기능 지원</h2>
+
+<p>문서가 데이터로 되어있어 문서를 기반한 다양한 기능 구현이 가능하다. 아티클의 언더라인을 대표적인 예시로 들 수 있다.
+(예시 : <a href="https://article.me/post/6298f3c3bcff9f53a901c75c?underlineSentenceId=629d9f6def23c17329b96845">언더라인 예시</a>)
+문단마다 데이터 영역이 나누어져 있어 블록선택으로 댓글등을 달고 리액션이 가능하다.
+HTML로도 가능 하긴 하지만, 데이터로 만들어져있어 기능구현이 쉽게 가능했다.
+컴포넌트 기반 글쓰기로 다양한 추가 컴포넌트로 인터렉티브한 기능의 구현이 가능 하다.</p>
+
+<figure>
+  <img data-action="zoom" src="../assets/images/20220607/article_se.png" alt="absolute" />
+  <figcaption>대화 / 만화뷰어 컴포넌트</figcaption>
+</figure>
+
+<h2 id="어디서나-글을-작성---멀티디바이스">어디서나 글을 작성 - 멀티디바이스</h2>
+
+<p>데이터 기반의 문서는 다양한 디바이스간의 편집을 가능 하게 해준다. SE는 PC WEB / Mobile WEB / iOS APP / Android APP을 모두 지원한다.
+PC 에서 작성한 글을 모바일에서 수정하고, 다시 태블릿에서 불러 올 수 있다. 작가는 어디서나 원하는 기기로 글을 작성 할 수 있고, 편집도 가능 하다.
+다양한 디바이스의 완벽하게 지원하는 글쓰기 도구는 글로벌에서도 찾기 어렵다. (심지어 나는 찾지 못했다.)</p>
+
+<h1 id="작가의-글을-더욱-빛나게-하는-article-homebuilder">작가의 글을 더욱 빛나게 하는 Article HomeBuilder</h1>
+
+<p>SE가 글을 돋보이게 한다면, Article의 홈빌더는 글쓴이의 글을 미려한 Home으로 보여준다.
+자신이 쓴 최신글이나 소식등을 알리는 나만의 개성있는 홈으로 외부에 나를 알리는 용도로 사용된다.
+우리는 이런 홈을 원클릭으로 쉽게 편집하고, 다양한 스타일링을 지원하는 도구를 구현 했다.</p>
+
+<figure>
+  <img data-action="zoom" src="assets/images/20220607/article_homebuilder.gif" alt="absolute" />
+  <figcaption>Article HomeBuilder</figcaption>
+</figure>
+
+<p>HomeBuilder는 다음의 기능에 포커스를 맞췄다.</p>
+
+<h2 id="초보자도-쉽게----단순한-편집">초보자도 쉽게 -  단순한 편집</h2>
+
+<p>글관련 컴포넌트를 클릭으로 삽입하고 모양을 쉽게 바꾸도록 지원한다.
+최신글 목록을 클릭만으로 추가하고, 원하는 모양의 Layout으로 변경이 가능하다.</p>
+
+<figure>
+  <img data-action="zoom" src="assets/images/20220607/article_home_view.png" alt="absolute" />
+  <figcaption>컴포넌트의 view 타입적용</figcaption>
+</figure>
+
+<h2 id="원클릭으로-한번에-스타일링--다양한-테마">원클릭으로 한번에 스타일링- 다양한 테마</h2>
+
+<p>HomeBuilder의 사이트 정보도 SE와 동일하게 데이터로 되어있다. SE의 DNA를 가진 테마를 홈빌더에도 그대로 적용하여 원클릭으로 다양한 스타일링이 가능하다.
+거기에 컬러 베리에이션까지 지원한다.</p>
+
+<figure>
+  <img data-action="zoom" src="assets/images/20220607/article_home_theme.png" alt="absolute" />
+  <figcaption>홈의 다양한 스타일링</figcaption>
+</figure>
+
+<h2 id="다양한-기기지원---반응형-사이트">다양한 기기지원 - 반응형 사이트</h2>
+
+<p>HomeBuilder도 다양한 기기의 화면을 지원한다. 편집기는 아직 PC만 지원 하지만 조만간 Mobile도 지원 할 예정이다.
+View의 경우에는 완벽한 반응형을 지원 한다.</p>
+
+<figure>
+  <img data-action="zoom" src="assets/images/20220607/article_home_res.png" alt="absolute" />
+  <figcaption>반응형 대응</figcaption>
+</figure>
+
+<h1 id="그래서-article은-최강의-ugc-도구일까">그래서 Article은 최강의 UGC 도구일까?</h1>
+
+<blockquote>
+  <p>솔직히 모르겠다.</p>
+</blockquote>
+
+<p>최강의 도구라는 것은 정의에 따라 다르다. 어떤 사람은 이런 기능없이 심플한 글쓰기가 좋은 사람도 있을 것이고, 글 내용에 집중 할 수있는 에디터를 선호 할 수도 있다.
+Article은 글과 디자인의 두마리 토끼를 잡아보려는 시도이다. 그 중심에 SmartEditor와 HomeBuilder가 최고의 도구를 제공 하고있다.
+글로벌 최강의 도구 인지 물어본다면 내 기준에서는 SmartEditor와 HomeBuilder가 결합된 도구는 최강의 도구라고 자부한다.
+앞으로도 SmartEditor와 HomeBuilder는 계속 진화 할 것이다. Article 서비스가 통해 우리의 도구기술을 글로벌에 알리는 관문으로 성공하길 기원한다.</p>
+
+                </div>
+            </section>
+
+            <!-- Email subscribe form at the bottom of the page -->
+            
+
+            <footer class="post-full-footer">
+                <!-- Everything inside the #author tags pulls data from the author -->
+                <!-- #author-->
+                
+                    
+                        <section class="author-card">
+                            
+                                <img class="author-profile-image" src="https://sshyun.github.io/assets/images/profile.jpg" alt="sshyun" />
+                            
+                            <section class="author-card-content">
+                                <h4 class="author-card-name"><a href="https://sshyun.github.io/author/sshyun">현성식</a></h4>
+                                
+                                    <p>Front-End Engineer / Team Leader</p>
+                                
+                            </section>
+                        </section>
+                        <div class="post-full-footer-right">
+                            <a class="author-card-button" href="https://sshyun.github.io/author/sshyun">Read More</a>
+                        </div>
+                    
+                
+                <!-- /author  -->
+            </footer>
+
+            <!-- If you use Disqus comments, just uncomment this block.
+            The only thing you need to change is "test-apkdzgmqhj" - which
+            should be replaced with your own Disqus site-id. -->
+            
+                <section class="post-full-comments">
+                    <!-- <div id="disqus_thread"></div>
+                    <script>
+                        var disqus_config = function () {
+                            var this_page_url = '/article-open';
+                            var this_page_identifier = '/article-open';
+                            var this_page_title = 'Article 서비스 오픈!';
+                        };
+                        (function() {
+                            var d = document, s = d.createElement('script');
+                            s.src = 'https://sungsic_hyun.disqus.com/embed.js';
+                            s.setAttribute('data-timestamp', +new Date());
+                            (d.head || d.body).appendChild(s);
+                        })();
+                    </script> -->
+
+                    <script src="https://utteranc.es/client.js"
+                            repo="sshyun/sshyun.github.io"
+                            issue-term="title"
+                            label="comment"
+                            theme="github-light"
+                            crossorigin="anonymous"
+                            async>
+                    </script>
+                </section>
+            
+
+        </article>
+
+    </div>
+</main>
+
+<!-- Links to Previous/Next posts -->
+<aside class="read-next outer">
+    <div class="inner">
+        <div class="read-next-feed">
+            
+                
+                
+                
+                
+                    <article class="read-next-card"
+                        
+                            style="background-image: url(https://sshyun.github.io/assets/images/blog_bg2.jpg)"
+                        
+                    >
+                        <header class="read-next-card-header">
+                            <small class="read-next-card-header-sitetitle">&mdash; mi diario &mdash;</small>
+                            
+                                <h3 class="read-next-card-header-title"><a href="https://sshyun.github.io/tag/work/">Work</a></h3>
+                            
+                        </header>
+                        <div class="read-next-divider"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 14.5s2 3 5 3 5.5-2.463 5.5-5.5S21 6.5 18 6.5c-5 0-7 11-12 11C2.962 17.5.5 15.037.5 12S3 6.5 6 6.5s4.5 3.5 4.5 3.5"/></svg>
+</div>
+                        <div class="read-next-card-content">
+                            <ul>
+                                
+                                
+                                  
+                                    
+                                  
+                                
+                                  
+                                
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="https://sshyun.github.io/teamwork">Team Building 하기</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                    
+                                        
+                                        
+                                            <li><a href="https://sshyun.github.io/presentation">발표는 어렵다</a></li>
+                                        
+                                    
+                                  
+                                
+                                  
+                                
+                            </ul>
+                        </div>
+                        <footer class="read-next-card-footer">
+                            <a href="https://sshyun.github.io/tag/work/">
+                                
+                                    See all 2 posts  →
+                                
+                            </a>
+                        </footer>
+                    </article>
+                
+            
+
+            <!-- If there's a next post, display it using the same markup included from - partials/post-card.hbs -->
+            
+
+            <!-- If there's a previous post, display it using the same markup included from - partials/post-card.hbs -->
+            
+                
+
+    <article class="post-card post-template">
+        
+            <a class="post-card-image-link" href="https://sshyun.github.io/analects">
+                <div class="post-card-image" style="background-image: url(https://sshyun.github.io/assets/images/analects-cover.jpg)"></div>
+            </a>
+        
+        <div class="post-card-content">
+            <a class="post-card-content-link" href="https://sshyun.github.io/analects">
+                <header class="post-card-header">
+                    
+                        
+                            
+                                <span class="post-card-tags">Comment</span>
+                            
+                        
+                    
+
+                    <h2 class="post-card-title">5월 리더 미팅 내용</h2>
+                </header>
+                <section class="post-card-excerpt">
+                    
+                        <p>플랫폼에 대한 자부심 그리고 꿈을 가져라.
+
+</p>
+                    
+                </section>
+            </a>
+            <footer class="post-card-meta">
+                
+                    
+                        
+                        <img class="author-profile-image" src="https://sshyun.github.io/assets/images/profile.jpg" alt="현성식" />
+                        
+                        <span class="post-card-author">
+                            <a href="https://sshyun.github.io/author/sshyun/">현성식</a>
+                        </span>
+                    
+                
+                <span class="reading-time">
+                    
+                    
+                      1 min read
+                    
+                </span>
+            </footer>
+        </div>
+    </article>
+
+            
+
+        </div>
+    </div>
+</aside>
+
+<!-- Floating header which appears on-scroll, included from includes/floating-header.hbs -->
+<div class="floating-header">
+    <div class="floating-header-logo">
+        <a href="https://sshyun.github.io/">
+            
+                <img src="https://sshyun.github.io/assets/images/favicon.png" alt="mi diario icon" />
+            
+            <span>mi diario</span>
+        </a>
+    </div>
+    <span class="floating-header-divider">&mdash;</span>
+    <div class="floating-header-title">Article 서비스 오픈!</div>
+    <div class="floating-header-share">
+        <div class="floating-header-share-label">Share this <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path d="M7.5 15.5V4a1.5 1.5 0 1 1 3 0v4.5h2a1 1 0 0 1 1 1h2a1 1 0 0 1 1 1H18a1.5 1.5 0 0 1 1.5 1.5v3.099c0 .929-.13 1.854-.385 2.748L17.5 23.5h-9c-1.5-2-5.417-8.673-5.417-8.673a1.2 1.2 0 0 1 1.76-1.605L7.5 15.5zm6-6v2m-3-3.5v3.5m6-1v2"/>
+</svg>
+</div>
+        <a class="floating-header-share-tw" href="https://twitter.com/share?text=Article+%EC%84%9C%EB%B9%84%EC%8A%A4+%EC%98%A4%ED%94%88%21&amp;url=https://sshyun.github.io/article-open"
+            onclick="window.open(this.href, 'share-twitter', 'width=550,height=235');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M30.063 7.313c-.813 1.125-1.75 2.125-2.875 2.938v.75c0 1.563-.188 3.125-.688 4.625a15.088 15.088 0 0 1-2.063 4.438c-.875 1.438-2 2.688-3.25 3.813a15.015 15.015 0 0 1-4.625 2.563c-1.813.688-3.75 1-5.75 1-3.25 0-6.188-.875-8.875-2.625.438.063.875.125 1.375.125 2.688 0 5.063-.875 7.188-2.5-1.25 0-2.375-.375-3.375-1.125s-1.688-1.688-2.063-2.875c.438.063.813.125 1.125.125.5 0 1-.063 1.5-.25-1.313-.25-2.438-.938-3.313-1.938a5.673 5.673 0 0 1-1.313-3.688v-.063c.813.438 1.688.688 2.625.688a5.228 5.228 0 0 1-1.875-2c-.5-.875-.688-1.813-.688-2.75 0-1.063.25-2.063.75-2.938 1.438 1.75 3.188 3.188 5.25 4.25s4.313 1.688 6.688 1.813a5.579 5.579 0 0 1 1.5-5.438c1.125-1.125 2.5-1.688 4.125-1.688s3.063.625 4.188 1.813a11.48 11.48 0 0 0 3.688-1.375c-.438 1.375-1.313 2.438-2.563 3.188 1.125-.125 2.188-.438 3.313-.875z"/></svg>
+
+        </a>
+        <a class="floating-header-share-fb" href="https://www.facebook.com/sharer/sharer.php?u=https://sshyun.github.io/article-open"
+            onclick="window.open(this.href, 'share-facebook','width=580,height=296');return false;">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M19 6h5V0h-5c-3.86 0-7 3.14-7 7v3H8v6h4v16h6V16h5l1-6h-6V7c0-.542.458-1 1-1z"/></svg>
+
+        </a>
+    </div>
+    <progress class="progress" value="0">
+        <div class="progress-container">
+            <span class="progress-bar"></span>
+        </div>
+    </progress>
+</div>
+
+
+<!-- /post -->
+
+<!-- The #contentFor helper here will send everything inside it up to the matching #block helper found in default.hbs -->
+
+
+        <!-- Previous/next page links - displayed on every page -->
+        
+
+        <!-- The footer at the very bottom of the screen -->
+        <footer class="site-footer outer">
+            <div class="site-footer-content inner">
+                <section class="copyright"><a href="https://sshyun.github.io/">mi diario</a> &copy; 2022</section>
+                <section class="poweredby">Proudly published with <a href="https://jekyllrb.com/">Jekyll</a> &
+                    <a href="https://pages.github.com/" target="_blank" rel="noopener">GitHub Pages</a> using
+                    <a href="https://github.com/jekyllt/jasper2" target="_blank" rel="noopener">Jasper2</a></section>
+                <nav class="site-footer-nav">
+                    <a href="https://sshyun.github.io/">Latest Posts</a>
+                    <a href="https://facebook.com/sungsic.hyun" target="_blank" rel="noopener">Facebook</a>
+                    
+                    <a href="https://ghost.org" target="_blank" rel="noopener">Ghost</a>
+                </nav>
+            </div>
+        </footer>
+
+    </div>
+
+    <!-- The big email subscribe modal content -->
+    
+
+    <!-- highlight.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.10.0/components/prism-abap.min.js"></script>
+    <script>$(document).ready(function() {
+      $('pre code').each(function(i, block) {
+        hljs.highlightBlock(block);
+      });
+    });</script>
+
+    <!-- jQuery + Fitvids, which makes all video embeds responsive -->
+    <script
+        src="https://code.jquery.com/jquery-3.2.1.min.js"
+        integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+        crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="https://sshyun.github.io/assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script>
+
+
+    <!-- Paginator increased to "infinit" in _config.yml -->
+    <!-- if paginator.posts  -->
+    <!-- <script>
+        var maxPages = parseInt('');
+    </script>
+    <script src="https://sshyun.github.io/assets/js/infinitescroll.js"></script> -->
+    <!-- /endif -->
+
+    
+
+
+    <!-- Add Google Analytics  -->
+    <!-- Google Analytics Tracking code -->
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69281367-1', 'auto');
+  ga('send', 'pageview');
+
+ </script>
+
+
+    <!-- The #block helper will pull in data from the #contentFor other template files. In this case, there's some JavaScript which we only want to use in post.hbs, but it needs to be included down here, after jQuery has already loaded. -->
+    
+        <script>
+
+// NOTE: Scroll performance is poor in Safari
+// - this appears to be due to the events firing much more slowly in Safari.
+//   Dropping the scroll event and using only a raf loop results in smoother
+//   scrolling but continuous processing even when not scrolling
+$(document).ready(function () {
+    // Start fitVids
+    var $postContent = $(".post-full-content");
+    $postContent.fitVids();
+    // End fitVids
+
+    var progressBar = document.querySelector('progress');
+    var header = document.querySelector('.floating-header');
+    var title = document.querySelector('.post-full-title');
+
+    var lastScrollY = window.scrollY;
+    var lastWindowHeight = window.innerHeight;
+    var lastDocumentHeight = $(document).height();
+    var ticking = false;
+
+    function onScroll() {
+        lastScrollY = window.scrollY;
+        requestTick();
+    }
+
+    function onResize() {
+        lastWindowHeight = window.innerHeight;
+        lastDocumentHeight = $(document).height();
+        requestTick();
+    }
+
+    function requestTick() {
+        if (!ticking) {
+            requestAnimationFrame(update);
+        }
+        ticking = true;
+    }
+
+    function update() {
+        var trigger = title.getBoundingClientRect().top + window.scrollY;
+        var triggerOffset = title.offsetHeight + 35;
+        var progressMax = lastDocumentHeight - lastWindowHeight;
+
+        // show/hide floating header
+        if (lastScrollY >= trigger + triggerOffset) {
+            header.classList.add('floating-active');
+        } else {
+            header.classList.remove('floating-active');
+        }
+
+        progressBar.setAttribute('max', progressMax);
+        progressBar.setAttribute('value', lastScrollY);
+
+        ticking = false;
+    }
+
+    window.addEventListener('scroll', onScroll, {passive: true});
+    window.addEventListener('resize', onResize, false);
+
+    update();
+});
+</script>
+
+    
+
+    <!-- Ghost outputs important scripts and data with this tag - it should always be the very last thing before the closing body tag -->
+    <!-- ghost_foot -->
+
+</body>
+</html>

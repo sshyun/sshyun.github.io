@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/https://sshyun.github.io/tag/lifelog/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/https://sshyun.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-07-22T03:17:48+00:00</updated>
+  <id>/https://sshyun.github.io/tag/lifelog/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">mi diario | </title>
+  
+
+  
+    <subtitle>my work, my life, my memory</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">첫 포스팅</title>
+      <link href="/https://sshyun.github.io/first-postting" rel="alternate" type="text/html" title="첫 포스팅" />
+      <published>2022-05-22T10:00:00+00:00</published>
+      <updated>2022-05-22T10:00:00+00:00</updated>
+      <id>/https://sshyun.github.io/first-postting</id>
+      <content type="html" xml:base="/https://sshyun.github.io/first-postting">&lt;p&gt;첫 포스팅.&lt;/p&gt;
+
+&lt;p&gt;블로그를 한번 해볼까 한다.&lt;/p&gt;
+
+&lt;p&gt;귀찮은 생각에 10년이라는 개발자의 삷에서 나의 흔적이 없는게 아쉽기도 하고,
+내 생각을 정리하는 공간도 필요하고,
+살면서 기억하고 싶은 순간들도 쓰고 싶어서 블로그를 한번 써볼까 한다.&lt;/p&gt;
+
+&lt;p&gt;얼마나 잘써질지는 모르겠지만. 일딴 시작이 반이니 &lt;strong&gt;화이팅&lt;/strong&gt; 해보고, 기록을 열심히 남겨보자~!&lt;/p&gt;
+
+&lt;p&gt;GOGO!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="lifelog" />
+      
+
+      
+        <summary type="html">첫 포스팅.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="/https://sshyun.github.io/tag/tech/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/https://sshyun.github.io/" rel="alternate" type="text/html" />
+  <updated>2022-07-22T03:17:48+00:00</updated>
+  <id>/https://sshyun.github.io/tag/tech/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">mi diario | </title>
+  
+
+  
+    <subtitle>my work, my life, my memory</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">7월 22일 기술 스크랩</title>
+      <link href="/https://sshyun.github.io/0722-tech" rel="alternate" type="text/html" title="7월 22일 기술 스크랩" />
+      <published>2022-05-26T20:40:00+00:00</published>
+      <updated>2022-05-26T20:40:00+00:00</updated>
+      <id>/https://sshyun.github.io/0722-tech</id>
+      <content type="html" xml:base="/https://sshyun.github.io/0722-tech">&lt;h2 id=&quot;getting-started-with-vue-composables&quot;&gt;&lt;a href=&quot;https://javascriptweekly.com/link/126349/8bed9fbbb9&quot;&gt;Getting Started with Vue Composables&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;조립형 컴포넌트를 위한 hook 형태의 함수모음(?)&lt;/li&gt;
+  &lt;li&gt;Vue에서도 재사용을위해 hook을 도입 하는구나.&lt;/li&gt;
+  &lt;li&gt;composables 하다는 의미는 재사용성 일까? 유틸함수를 모아 놓은 것 같은데?&lt;/li&gt;
+  &lt;li&gt;재사용 가능한 함수API로 컴포넌트를 개발 하라는 의미 일지도.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;an-introduction-to-functional-programming-in-js&quot;&gt;An Introduction to Functional Programming in JS&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XGNYDjyD6G8&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;함수형 프로그래밍의 기초에 관한 영상&lt;/li&gt;
+  &lt;li&gt;React hook 을 사용하고 있으니 일반적인 이야기?&lt;/li&gt;
+  &lt;li&gt;OOP기반의 객체 보다 데이터기반으로 함수를 통해 정제결과를 얻는 방식&lt;/li&gt;
+  &lt;li&gt;근데 누가 더 좋다 나쁘다는 아닐거 같고
+    &lt;ul&gt;
+      &lt;li&gt;상황에 맞게 써야 하지 않을까?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;확실히 테스트는 유리 하다
+    &lt;ul&gt;
+      &lt;li&gt;객체는 쓸대없이 더미 파라메터나 의미없는 셋팅을 해야 하는경우가 있다.&lt;/li&gt;
+      &lt;li&gt;함수는 그에 비해 입력 / 출력만 검증 하면 그뿐&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;currying을 사용한 함수의 composition은 너무 올드패션 아닐까?
+    &lt;ul&gt;
+      &lt;li&gt;근데 currying이 정말 좋은 방법일지는 미지수&lt;/li&gt;
+      &lt;li&gt;복잡도나 디버깅이 어렵다&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;영상에 있는 내용을 코드로 만들어 봤다. (코딩하니 행복해..)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;// OOP
+// ClassMember 라는 객체 명세를 알아야함
+// increasePay는 객체 내부로 숨겨짐
+// increasePay는 Class 한정이고 다른 Class 에서 재사용 불가
+// Test 시 객체를 생성 해야함. 사용하지 않는 더미 파라메터가 필요.
+class ClassMember {
+       
+    constructor (name, pay) {
+        this.name = name;
+        this.pay = pay;
+    }
+ 
+    getPay() {
+       return this.pay
+    }
+ 
+    increasePay(amount) {
+       this.pay = this.pay + amount;
+    }
+}
+ 
+const members = [
+    new ClassMember(&quot;성식형&quot;, 100),
+    new ClassMember(&quot;김코딩&quot;, 100),
+];
+ 
+const updateMembers = members.map((member)=&amp;gt;{ return member.increasePay(300)};
+ 
+ 
+// 함수형
+// FuncMembers 라는 데이터 구조를 알아야함
+// 그에 맞춰서 increasePay 를 구현
+// increasePay는 함수이므로 같은 규격의 데이터라면 재사용이 가능
+// 독립 함수라 Test를 쉽게 함. 검증데이터만 넣으면 됨.
+const FuncMembers = [
+    [&quot;성식형&quot;, 100],
+    [&quot;김코딩&quot;, 100]
+];
+ 
+function increasePay(members, amount) {
+    return members.map((member)=&amp;gt;{
+        retur [member[0], member[1] + amount];
+    });
+}
+ 
+increasePay(FuncMembers, 300);
+ 
+// currying
+// 함수의 합성이 과연 좋은 방법일까?
+function currying(func){
+    return function(firstValue){
+        return function(secondValue) {
+            return func(firstValue, secondValue);
+        }
+    }
+}
+ 
+const add = currying((a,b)=&amp;gt;{ return a+b});
+console.log(add(1)(3));
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>현성식</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="tech" />
+      
+
+      
+        <summary type="html">Getting Started with Vue Composables</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> - Articles</title>
+    <description>my work, my life, my memory</description>
+    <link>
+    </link>
+    
+      
+      <item>
+        <title>Article 서비스 오픈!</title>
+        
+          <description>&lt;h1 id=&quot;드디어-article-오픈&quot;&gt;드디어 Article 오픈&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Tue, 07 Jun 2022 17:00:00 +0000</pubDate>
+        <link>
+        /article-open</link>
+        <guid isPermaLink="true">/article-open</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>5월 리더 미팅 내용</title>
+        
+          <description>&lt;h2 id=&quot;플랫폼에-대한-자부심-그리고-꿈을-가져라&quot;&gt;플랫폼에 대한 자부심 그리고 꿈을 가져라.&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Fri, 27 May 2022 12:00:00 +0000</pubDate>
+        <link>
+        /analects</link>
+        <guid isPermaLink="true">/analects</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>7월 22일 기술 스크랩</title>
+        
+          <description>&lt;h2 id=&quot;getting-started-with-vue-composables&quot;&gt;&lt;a href=&quot;https://javascriptweekly.com/link/126349/8bed9fbbb9&quot;&gt;Getting Started with Vue Composables&lt;/a&gt;&lt;/h2&gt;
+
+</description>
+        
+        <pubDate>Thu, 26 May 2022 20:40:00 +0000</pubDate>
+        <link>
+        /0722-tech</link>
+        <guid isPermaLink="true">/0722-tech</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>Team Building 하기</title>
+        
+          <description>&lt;h1 id=&quot;우리-팀의-빌딩-스토리와-팀워크&quot;&gt;우리 팀의 빌딩 스토리와 팀워크&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Thu, 26 May 2022 20:40:00 +0000</pubDate>
+        <link>
+        /teamwork</link>
+        <guid isPermaLink="true">/teamwork</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>발표는 어렵다</title>
+        
+          <description>&lt;h1 id=&quot;pt는-언제쯤-잘-할-수-있을까&quot;&gt;PT는 언제쯤 잘 할 수 있을까?&lt;/h1&gt;
+
+</description>
+        
+        <pubDate>Sun, 22 May 2022 20:40:00 +0000</pubDate>
+        <link>
+        /presentation</link>
+        <guid isPermaLink="true">/presentation</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>첫 포스팅</title>
+        
+          <description>&lt;p&gt;첫 포스팅.&lt;/p&gt;
+
+</description>
+        
+        <pubDate>Sun, 22 May 2022 10:00:00 +0000</pubDate>
+        <link>
+        /first-postting</link>
+        <guid isPermaLink="true">/first-postting</guid>
+      </item>
+      
+    
+  </channel>
+</rss>
