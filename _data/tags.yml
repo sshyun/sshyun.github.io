@@ -22,3 +22,7 @@ tech:
   name: tech
   description: 기술 이야기
   cover: assets/images/category/tech-cover.jpg
+books:
+  name: books
+  description: 책 이야기
+  cover: assets/images/category/book-cover.jpg
